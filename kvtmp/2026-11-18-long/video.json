@@ -1,0 +1,802 @@
+{
+ "out": "/tmp/kv/2026-11-18-long/out/xiaomi-18-pro-verdict.mp4",
+ "format": "landscape",
+ "theme": "konala",
+ "cohost": false,
+ "brand": "KONALA VADDA?",
+ "segment": "FULL VERDICT",
+ "site": "youtube.com/@KonalaVadda",
+ "lid": {
+  "text": "?",
+  "color": "#FFC83D"
+ },
+ "lang": "te",
+ "captions": true,
+ "music": true,
+ "thumb": {
+  "text": "XIAOMI 18 PRO MAX",
+  "text2": "కొనాలా? వద్దా?",
+  "tag": "FULL VERDICT",
+  "mood": "wow",
+  "pose": "point",
+  "image": "/tmp/kv/2026-11-18-long/img/back_cut.png",
+  "from": "BUY NOW?",
+  "to": "WAIT!"
+ },
+ "scenes": [
+  {
+   "kind": "hero",
+   "kicker": "CONFIRMED · NOV 17",
+   "title": "Xiaomi 18 Pro Max",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/red_hero.jpg",
+     "fit": "cover",
+     "label": "Velvet Red"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/rear_selfie1.jpg",
+     "fit": "cover",
+     "label": "Back screen selfie"
+    }
+   ],
+   "items": [
+    "2.9\" BACK SCREEN",
+    "200MP + 200MP LEICA",
+    "7,050 mAh (GLOBAL)"
+   ],
+   "beats": [
+    {
+     "say": "వెనుక కూడా ఒక screen ఉన్న Xiaomi phone, ఇప్పుడు global గా వచ్చేసింది. కానీ, ఇక్కడే ఒక పెద్ద twist ఉంది!",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "China model లో ఉన్నంత battery, global model లో లేదు. ఆ తేడా ఎంతో, ఈ వీడియోలో numbers తో చూపిస్తా.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Design, display, camera, battery, ధర, India status, rivals. చివరగా, కొనాలా వద్దా అని clear verdict చెప్తా.",
+     "mood": "happy",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED",
+   "title": "Nov 17: **Paris** లో global launch",
+   "items": [
+    "Xiaomi 18 Pro + 18 Pro Max: China లో September లో వచ్చాయి, ఇప్పుడు global",
+    "Europe ధర: 18 Pro **€1,399** నుంచి, Pro Max **€1,599** నుంచి"
+   ],
+   "meta": "Sources: Tech Times, Business Upturn, mi.com",
+   "image": {
+    "src": "/tmp/kv/2026-11-18-long/img/hero_pair.jpg",
+    "fit": "cover"
+   },
+   "beats": [
+    {
+     "say": "నవంబర్ 17 న, Paris లో Xiaomi ఈ రెండు phones ని global గా launch చేసింది. China లో ఇవి September లోనే వచ్చాయి.",
+     "mood": "talk",
+     "show": 1
+    },
+    {
+     "say": "Europe లో 18 Pro ధర 1,399 యూరోల నుంచి మొదలు. Pro Max ధర 1,599 యూరోల నుంచి. గుర్తుంచుకోండి, ఇది India ధర కాదు.",
+     "mood": "think",
+     "show": 2,
+     "say_te": "ఇక ధరల విషయానికి వస్తే, యూరప్ లో ఎయిటీన్ ప్రో ధర, వన్ థౌజండ్ త్రీ హండ్రెడ్ నైంటీ నైన్ యూరోల నుంచి మొదలు. ప్రో మ్యాక్స్ ధర, వన్ థౌజండ్ ఫైవ్ హండ్రెడ్ నైంటీ నైన్ యూరోల నుంచి. గుర్తుంచుకోండి, ఇది ఇండియా ధర కాదు."
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "01",
+   "title": "Design + **Back Screen**",
+   "beats": [
+    {
+     "say": "ముందుగా, అందరూ మాట్లాడుకుంటున్న విషయం. వెనుక ఉన్న ఆ చిన్న screen.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · MI.COM SPECS",
+   "title": "4 colours, IP68",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/colours.jpg",
+     "fit": "cover",
+     "label": "4 colours"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/pro_colours.jpg",
+     "fit": "cover",
+     "label": "18 Pro"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/back_cut.png",
+     "fit": "contain",
+     "label": "Velvet Red"
+    }
+   ],
+   "items": [
+    "White · Black · Cosmic Blue · Velvet Red",
+    "Pro Max: **229 g** (Blue 234 g)",
+    "18 Pro: **198 g**, చిన్న phone",
+    "IP68 dust + water"
+   ],
+   "beats": [
+    {
+     "say": "Colours నాలుగు. White, Black, Cosmic Blue, Velvet Red.",
+     "mood": "talk",
+     "show": 1
+    },
+    {
+     "say": "Pro Max బరువు 229 గ్రాములు. Blue model అయితే, 234 గ్రాములు. అంటే, చేతిలో కొంచెం heavy గానే ఉంటుంది.",
+     "mood": "think",
+     "show": 2
+    },
+    {
+     "say": "18 Pro మాత్రం 198 గ్రాములు. చిన్న phone కావాలనుకునే వాళ్లకి ఇది బాగుంటుంది. రెండిటికీ IP68 rating ఉంది.",
+     "mood": "happy",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · BACK DISPLAY",
+   "title": "వెనుక screen తో ఏం చేయొచ్చు?",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/rear_selfie2.jpg",
+     "fit": "cover",
+     "label": "Main camera selfie"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/rear_ui1.jpg",
+     "fit": "cover",
+     "label": "Notifications"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/rear_selfie3.jpg",
+     "fit": "cover",
+     "label": "Group selfie"
+    }
+   ],
+   "items": [
+    "Pro Max: **2.9\"** AMOLED, 976 x 596",
+    "18 Pro: **2.7\"** AMOLED",
+    "Main 200MP camera తో selfie preview",
+    "Wallpapers, widgets, AI cards"
+   ],
+   "beats": [
+    {
+     "say": "Pro Max లో వెనుక screen 2.9 inches. 18 Pro లో, 2.7 inches. రెండూ AMOLED, Gorilla Glass Victus 2 తో.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "అసలు use ఏంటంటే, phone తిప్పి, వెనుక ఉన్న main camera తోనే selfie తీసుకోవచ్చు. Preview ఆ చిన్న screen మీద కనిపిస్తుంది.",
+     "mood": "wow",
+     "show": 3
+    },
+    {
+     "say": "Selfie camera కంటే main camera చాలా better కదా. Group photos, vlogs కి ఇది నిజంగా useful.",
+     "mood": "cool"
+    },
+    {
+     "say": "అలాగే wallpapers, widgets, AI cards కూడా ఆ screen మీద చూపిస్తుంది. Gimmick లా అనిపించొచ్చు, కానీ selfie కోసం మాత్రం మంచి idea.",
+     "mood": "think",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "02",
+   "title": "Main **Display**",
+   "beats": [
+    {
+     "say": "ఇక ముందు ఉన్న main display చూద్దాం. ఇక్కడ కూడా ఒక కొత్త feature ఉంది.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "compare",
+   "kicker": "CONFIRMED · MI.COM SPECS",
+   "title": "18 Pro vs 18 Pro Max: size",
+   "left": {
+    "title": "Xiaomi 18 Pro",
+    "mark": "check",
+    "items": [
+     "6.4\" display",
+     "2436 x 1120",
+     "Back screen 2.7\"",
+     "198 g"
+    ]
+   },
+   "right": {
+    "title": "18 Pro Max",
+    "items": [
+     "6.9\" display",
+     "2624 x 1208",
+     "Back screen 2.9\"",
+     "229 g"
+    ]
+   },
+   "note": "రెండిటికీ: 1-120Hz LTPO · 4000 nits peak · Privacy Display",
+   "beats": [
+    {
+     "say": "18 Pro లో 6.4 inch display. Compact phone కావాలంటే ఇదే.",
+     "mood": "talk",
+     "show": 1
+    },
+    {
+     "say": "Pro Max లో 6.9 inch పెద్ద display. Videos, games కి పెద్ద screen కావాలంటే Pro Max.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "రెండిటికీ 1 నుంచి 120 హెర్ట్జ్ LTPO, 4000 nits peak brightness ఉన్నాయి.",
+     "mood": "cool",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED · XIAOMI PRIVACY DISPLAY",
+   "title": "పక్కవాళ్లకు screen కనిపించదు?",
+   "items": [
+    "పక్క angles నుంచి చూస్తే screen తక్కువగా కనిపిస్తుంది",
+    "Xiaomi note: కొన్ని angles లో content ఇంకా కనిపించొచ్చు; setup అవసరం"
+   ],
+   "meta": "Source: mi.com global specs",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/privacy.jpg",
+     "fit": "cover",
+     "label": "Privacy Display"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/front_red.jpg",
+     "fit": "cover",
+     "label": "6.9\" display"
+    }
+   ],
+   "beats": [
+    {
+     "say": "Bus లో, metro లో, పక్కన ఉన్నవాళ్లు మీ phone లోకి తొంగి చూస్తారు కదా. దానికోసమే Privacy Display.",
+     "mood": "laugh",
+     "show": 1
+    },
+    {
+     "say": "పక్క angles నుంచి screen కనిపించడం తగ్గుతుంది. కానీ Xiaomi నే చెప్తోంది, కొన్ని angles లో content ఇంకా కనిపించొచ్చు అని.",
+     "mood": "think",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "03",
+   "title": "Chip + **Battery**",
+   "beats": [
+    {
+     "say": "ఇప్పుడు ఈ వీడియోలో అతి ముఖ్యమైన part. Performance, battery.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "CONFIRMED · MI.COM SPECS",
+   "title": "2nm chip, **5GHz** వరకు",
+   "items": [
+    [
+     "2nm",
+     "Snapdragon 8 Elite Extreme Gen 6 (Pro Max)"
+    ],
+    [
+     "5GHz",
+     "2 prime cores, up to"
+    ]
+   ],
+   "image": {
+    "src": "/tmp/kv/2026-11-18-long/img/chip.jpg",
+    "fit": "cover"
+   },
+   "beats": [
+    {
+     "say": "Pro Max లో Snapdragon 8 Elite Extreme Gen 6 chip. 18 Pro లో, Snapdragon 8 Elite Gen 6.",
+     "mood": "talk",
+     "show": 1
+    },
+    {
+     "say": "రెండూ 2nm chips. Prime cores, 5 గిగాహెర్ట్జ్ వరకు వెళ్తాయి అని Xiaomi చెప్తోంది. Real tests వచ్చాకే అసలు speed తెలుస్తుంది.",
+     "mood": "think",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "bars",
+   "kicker": "CONFIRMED · GLOBAL vs CHINA",
+   "title": "Global model లో battery **తక్కువ**",
+   "bars": [
+    [
+     "18 Pro Max · China",
+     8500
+    ],
+    [
+     "18 Pro Max · Global",
+     7050
+    ],
+    [
+     "18 Pro · China",
+     7000
+    ],
+    [
+     "18 Pro · Global",
+     6000
+    ]
+   ],
+   "note": "mAh · Global: mi.com · China: Tech Times, Business Upturn",
+   "image": {
+    "src": "/tmp/kv/2026-11-18-long/img/battery_max.jpg",
+    "fit": "cover"
+   },
+   "beats": [
+    {
+     "say": "ఇదే ఆ twist. China లో Pro Max battery 8,500 mAh.",
+     "mood": "point",
+     "show": 1
+    },
+    {
+     "say": "కానీ global Pro Max లో, 7,050 mAh మాత్రమే. దాదాపు 17 శాతం తక్కువ.",
+     "mood": "oops",
+     "show": 2
+    },
+    {
+     "say": "18 Pro లో కూడా అంతే. China లో 7,000 mAh, global లో 6,000 mAh. ఎందుకు తగ్గించారో, Xiaomi కారణం చెప్పలేదు.",
+     "mood": "think",
+     "show": 4
+    },
+    {
+     "say": "అయినా సరే, 7,050 mAh అంటే ఇప్పటికీ పెద్ద battery నే. Galaxy S26 Ultra లో 5,000 mAh మాత్రమే.",
+     "mood": "cool"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · MI.COM SPECS",
+   "title": "Charging: box లో charger లేదు",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/battery_pro.jpg",
+     "fit": "cover",
+     "label": "18 Pro: 6,000 mAh"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/cooling.jpg",
+     "fit": "cover",
+     "label": "3D IceLoop cooling"
+    }
+   ],
+   "items": [
+    "Pro Max: **100W** wired",
+    "18 Pro: **90W** wired",
+    "రెండిటికీ **50W** wireless",
+    "Box లో power adapter లేదు"
+   ],
+   "beats": [
+    {
+     "say": "Charging లో Pro Max కి 100 వాట్, 18 Pro కి 90 వాట్ wired charging. రెండిటికీ 50 వాట్ wireless.",
+     "mood": "talk",
+     "show": 3
+    },
+    {
+     "say": "కానీ ఒక విషయం గుర్తుంచుకోండి. Global box లో charger ఇవ్వట్లేదు. Cable, case మాత్రమే ఉంటాయి.",
+     "mood": "oops",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "04",
+   "title": "Leica **Camera**",
+   "beats": [
+    {
+     "say": "ఇక camera. ఇక్కడ రెండు 200 మెగాపిక్సెల్ cameras ఉన్నాయి.",
+     "mood": "wow"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · MI.COM SPECS",
+   "title": "రెండు **200MP** Leica cameras",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/cam_cut.png",
+     "fit": "contain",
+     "label": "Leica cameras"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/lens.jpg",
+     "fit": "cover",
+     "label": "Leica Summilux lens"
+    }
+   ],
+   "items": [
+    "Main: 200MP, 1/1.28\", f/1.67",
+    "Telephoto: 200MP, 75mm, Samsung HP5",
+    "Ultra-wide: 50MP, 102°",
+    "Front: 50MP auto focus"
+   ],
+   "beats": [
+    {
+     "say": "Main camera, 200 మెగాపిక్సెల్. పెద్ద 1/1.28 inch sensor, Leica lens తో.",
+     "mood": "point",
+     "show": 1,
+     "say_te": "మెయిన్ కెమెరా, టూ హండ్రెడ్ మెగాపిక్సెల్. వన్ బై వన్ పాయింట్ టూ ఎయిట్ ఇంచ్, పెద్ద సెన్సార్, లైకా లెన్స్ తో."
+    },
+    {
+     "say": "Telephoto కూడా 200 మెగాపిక్సెల్. 75mm, అంటే zoom photos కి ఇది strong point.",
+     "mood": "wow",
+     "show": 2
+    },
+    {
+     "say": "Ultra-wide 50 మెగాపిక్సెల్, 102 degrees. Front లో, 50 మెగాపిక్సెల్ auto focus camera.",
+     "mood": "talk",
+     "show": 4
+    },
+    {
+     "say": "Pro Max main camera లో LOFIC HDR అనే sensor technology ఉంది. Bright sky, dark shadows ఒకే photo లో బాగా రావాలని దీని idea.",
+     "mood": "cool"
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "XIAOMI OFFICIAL SAMPLES",
+   "title": "Zoom samples: Xiaomi official",
+   "items": [
+    "Video: **8K** 30fps, **4K** 120fps Dolby Vision",
+    "4K Log video, 60 / 120fps"
+   ],
+   "meta": "Images: Xiaomi official (mi.com). Real-life tests ఇంకా రావాలి.",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/zoom1.jpg",
+     "fit": "contain",
+     "label": "Wide"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/zoom2.jpg",
+     "fit": "contain",
+     "label": "Zoom"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/zoom3.jpg",
+     "fit": "contain",
+     "label": "More zoom"
+    }
+   ],
+   "beats": [
+    {
+     "say": "ఇవి Xiaomi తన website లో పెట్టిన zoom samples. Company samples కాబట్టి, best photos నే చూపిస్తారు, అది గుర్తుంచుకోండి.",
+     "mood": "think",
+     "show": 1
+    },
+    {
+     "say": "Video లో 8K, 30 fps. 4K Dolby Vision, 120 fps వరకు. Creators కోసం 4K Log video కూడా ఉంది.",
+     "mood": "cool",
+     "show": 2,
+     "say_te": "వీడియో లో ఎయిట్ కే, థర్టీ ఎఫ్ పీ ఎస్. ఫోర్ కే డాల్బీ విజన్, వన్ హండ్రెడ్ ట్వెంటీ ఎఫ్ పీ ఎస్ వరకు. క్రియేటర్స్ కోసం ఫోర్ కే లాగ్ వీడియో కూడా ఉంది."
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "EARLY REVIEW · ఒక site మాత్రమే",
+   "title": "మొదటి review ఏం చెప్తోంది?",
+   "items": [
+    "Presse-Citron early test: Pro Max camera **very good**, Xiaomi 17 Ultra కి దగ్గరగా",
+    "Night photos లో కొంచెం వెనుక; ఆ site ranking లో OPPO Find X10 Pro Max, iPhone 18 Pro Max, Pixel 11 Pro XL ముందు"
+   ],
+   "meta": "Source: Tech Times (Presse-Citron test). Independent lab tests ఇంకా రాలేదు.",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/portrait.jpg",
+     "fit": "contain",
+     "label": "Portrait sample"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/night.jpg",
+     "fit": "contain",
+     "label": "Low light sample"
+    }
+   ],
+   "beats": [
+    {
+     "say": "French site Presse-Citron early test లో, Pro Max camera very good అన్నారు. Xiaomi 17 Ultra కి దగ్గరగా ఉంది అని.",
+     "mood": "happy",
+     "show": 1
+    },
+    {
+     "say": "కానీ night photos లో కొంచెం వెనుక ఉంది. వాళ్ల ranking లో OPPO Find X10 Pro Max, iPhone 18 Pro Max, Pixel 11 Pro XL ముందున్నాయి.",
+     "mood": "think",
+     "show": 2
+    },
+    {
+     "say": "ఇది ఒక site early review మాత్రమే. Full tests వచ్చాక, మళ్లీ update చేస్తా.",
+     "mood": "talk"
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "05",
+   "title": "ధర + **India**",
+   "beats": [
+    {
+     "say": "ఇప్పుడు అందరూ అడిగే ప్రశ్న. ధర ఎంత, India కి ఎప్పుడు?",
+     "mood": "think"
+    }
+   ]
+  },
+  {
+   "kind": "bars",
+   "kicker": "CONFIRMED · FRANCE RRP (EUR)",
+   "title": "Europe ధరలు (India ధర కాదు)",
+   "bars": [
+    [
+     "18 Pro · 12GB+256GB",
+     1399
+    ],
+    [
+     "18 Pro · 12GB+512GB",
+     1599
+    ],
+    [
+     "Pro Max · 12GB+256GB",
+     1599
+    ],
+    [
+     "Pro Max · 12GB+512GB",
+     1799
+    ]
+   ],
+   "note": "€ · Source: Tech Times (Clubic). ధరలు మారుతాయి.",
+   "image": {
+    "src": "/tmp/kv/2026-11-18-long/img/pro_blue_pair.jpg",
+    "fit": "cover"
+   },
+   "beats": [
+    {
+     "say": "France లో 18 Pro, 256GB model 1,399 యూరోలు. 512GB model 1,599 యూరోలు.",
+     "mood": "talk",
+     "show": 2
+    },
+    {
+     "say": "Pro Max, 256GB 1,599 యూరోలు. 512GB అయితే 1,799 యూరోలు.",
+     "mood": "wow",
+     "show": 4,
+     "say_te": "ఇక ప్రో మ్యాక్స్ విషయానికి వస్తే, టూ హండ్రెడ్ ఫిఫ్టీ సిక్స్ జీ బీ మోడల్, వన్ థౌజండ్ ఫైవ్ హండ్రెడ్ నైంటీ నైన్ యూరోలు. ఫైవ్ హండ్రెడ్ ట్వెల్వ్ జీ బీ అయితే, వన్ థౌజండ్ సెవెన్ హండ్రెడ్ నైంటీ నైన్ యూరోలు."
+    },
+    {
+     "say": "ఈ euro ధరని direct గా rupees లోకి మార్చకండి. India లో taxes, offers వేరు. India ధర Xiaomi చెప్పాకే నమ్మండి.",
+     "mood": "oops"
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "RUMOUR · NOT CONFIRMED",
+   "title": "India కి వస్తుందా?",
+   "items": [
+    "Xiaomi India ఇంకా launch date, ధర చెప్పలేదు",
+    "September reports: Pro Max India కి రాదు, 18 Pro మాత్రమే రావొచ్చు. Xiaomi confirm చేయలేదు"
+   ],
+   "meta": "Sources: Gogi.in, XimiTime, Nokiamob · Philippines launch Nov 26: mi.com/ph",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/rear_trio.png",
+     "fit": "contain",
+     "label": "Xiaomi 18 Pro Series"
+    },
+    {
+     "src": "/tmp/kv/2026-11-18-long/img/pro_cam_cut.png",
+     "fit": "contain",
+     "label": "Xiaomi 18 Pro"
+    }
+   ],
+   "beats": [
+    {
+     "say": "India కి సంబంధించి, Xiaomi ఇంకా date గానీ, ధర గానీ ఏమీ చెప్పలేదు.",
+     "mood": "think",
+     "show": 1
+    },
+    {
+     "say": "September లో కొన్ని reports ఏమన్నాయంటే, Pro Max India కి రాదు, 18 Pro మాత్రమే రావొచ్చు అని. ఇది rumour మాత్రమే, official కాదు.",
+     "mood": "oops",
+     "show": 2
+    },
+    {
+     "say": "Asia లో మాత్రం, Philippines లో నవంబర్ 26 న launch ఉంది అని Xiaomi Philippines website చెప్తోంది.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "compare",
+   "kicker": "RIVAL · INDIA లో ఇప్పుడే కొనొచ్చు",
+   "title": "vs Galaxy S26 Ultra",
+   "left": {
+    "title": "Galaxy S26 Ultra",
+    "mark": "check",
+    "items": [
+     "India: ₹1,39,999 (12/256)",
+     "6.9\" + Privacy Display",
+     "5,000 mAh · 60W",
+     "200MP + 50MP 5x zoom"
+    ]
+   },
+   "right": {
+    "title": "Xiaomi 18 Pro Max",
+    "items": [
+     "India ధర: ఇంకా లేదు",
+     "6.9\" + 2.9\" back screen",
+     "7,050 mAh · 100W",
+     "200MP + 200MP 75mm"
+    ]
+   },
+   "note": "Sources: Digit (Galaxy India launch), mi.com (Xiaomi global specs)",
+   "beats": [
+    {
+     "say": "ఇప్పుడు rival తో పోల్చుదాం. Galaxy S26 Ultra India లో ఇప్పటికే ఉంది. Launch ధర, 12GB, 256GB, ₹1,39,999.",
+     "mood": "talk",
+     "show": 1,
+     "say_te": "ఇప్పుడు రైవల్ తో పోల్చుదాం. గెలాక్సీ ఎస్ ట్వెంటీ సిక్స్ అల్ట్రా ఇండియా లో ఇప్పటికే ఉంది. ట్వెల్వ్ జీ బీ, టూ హండ్రెడ్ ఫిఫ్టీ సిక్స్ జీ బీ మోడల్ లాంచ్ ధర, ఒక లక్షా ముప్పై తొమ్మిది వేల తొమ్మిది వందల తొంభై తొమ్మిది రూపాయలు."
+    },
+    {
+     "say": "Xiaomi లో battery పెద్దది, charging fast, వెనుక screen extra. Samsung కి India లో service, sale రెండూ ready గా ఉన్నాయి.",
+     "mood": "think",
+     "show": 2
+    },
+    {
+     "say": "రెండిటిలోనూ Privacy Display ఉంది. అంటే, ఆ feature ఒక్కటే కారణం కాదు.",
+     "mood": "point",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "RIVAL · NOV 26 INDIA LAUNCH",
+   "title": "Wait చేస్తే: vivo X500 Pro",
+   "items": [
+    "vivo confirm: X500 series India launch **Nov 26**",
+    "China model: 6,510 mAh · 90W wired (India specs ఇంకా official కాదు)",
+    "India ధర: ₹1,49,999? tipster rumour మాత్రమే"
+   ],
+   "beats": [
+    {
+     "say": "ఇంకో option. vivo X500 series India launch నవంబర్ 26 న, vivo నే confirm చేసింది.",
+     "mood": "point",
+     "show": 1
+    },
+    {
+     "say": "China model X500 Pro లో, 6,510 mAh battery, 90 వాట్ charging. India specs ఆ రోజే తెలుస్తాయి.",
+     "mood": "talk",
+     "show": 2
+    },
+    {
+     "say": "ధర ₹1,49,999 అని ఒక tipster అంటున్నారు. అది rumour మాత్రమే.",
+     "mood": "think",
+     "show": 3,
+     "say_te": "దీని ఇండియా ధర, ఒక లక్షా, నలభై తొమ్మిది వేల, తొమ్మిది వందల తొంభై తొమ్మిది రూపాయలు అని ఒక టిప్‌స్టర్ అంటున్నారు. అది రూమర్ మాత్రమే."
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "06",
+   "title": "**Verdict**: కొనాలా వద్దా?",
+   "beats": [
+    {
+     "say": "సరే, ఇక final verdict. మీరు ఎలాంటి buyer అనేదాని బట్టి చెప్తా.",
+     "mood": "happy"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "KONALA VADDA? VERDICT",
+   "title": "ఎవరికి ఏది?",
+   "items": [
+    "Camera + zoom fans: **WAIT**. India ధర, real tests చూడండి",
+    "పెద్ద battery కావాలి: **WAIT**. Nov 26 vivo X500 కూడా చూడండి",
+    "ఇప్పుడే flagship కావాలి: Xiaomi **SKIP**. India లో sale లేదు",
+    "Compact phone కావాలి: 18 Pro కోసం **WAIT**"
+   ],
+   "image": {
+    "src": "/tmp/kv/2026-11-18-long/img/colours_cut.png",
+    "fit": "contain"
+   },
+   "beats": [
+    {
+     "say": "Camera, zoom మీకు ముఖ్యం అయితే, wait చేయండి. India ధర, real camera tests వచ్చాక decide చేయండి.",
+     "mood": "think",
+     "show": 1
+    },
+    {
+     "say": "పెద్ద battery కావాలంటే కూడా wait. నవంబర్ 26 న vivo X500 series వస్తోంది, అది కూడా చూసి decide చేయండి.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "ఈ నెలలోనే flagship కొనాలి అంటే, Xiaomi ని skip చేయండి. ఇది India లో ఇంకా sale లో లేదు.",
+     "mood": "oops",
+     "show": 3
+    },
+    {
+     "say": "చిన్న, light phone కావాలంటే, 18 Pro కోసం wait చేయండి. 198 గ్రాములు, 6.4 inch.",
+     "mood": "happy",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "FINAL VERDICT",
+   "title": "Xiaomi 18 Pro Max: **WAIT**",
+   "items": [
+    [
+     "WAIT",
+     "India ధర + real tests వచ్చేవరకు"
+    ]
+   ],
+   "image": {
+    "src": "/tmp/kv/2026-11-18-long/img/back_cut.png",
+    "fit": "contain"
+   },
+   "beats": [
+    {
+     "say": "మీరైతే Xiaomi 18 Pro Max కొంటారా, Galaxy S26 Ultra తీసుకుంటారా? కామెంట్ లో మీ verdict చెప్పండి.",
+     "mood": "point",
+     "bubble": "మీ verdict?"
+    },
+    {
+     "say": "నా verdict, wait. Phone చాలా exciting, కానీ India ధర, battery size official గా వచ్చేవరకు ఆగండి.",
+     "mood": "happy",
+     "show": 1
+    }
+   ]
+  },
+  {
+   "kind": "outro",
+   "title": "Konala Vadda?",
+   "sub": "youtube.com/@KonalaVadda",
+   "items": [
+    "Subscribe: ప్రతి gadget కి clear verdict",
+    "నిన్నటి Gadget News Today చూడండి"
+   ],
+   "beats": [
+    {
+     "say": "ఇలాంటి clear verdicts కోసం, Konala Vadda? channel ని subscribe చేయండి. నిన్నటి Gadget News Today వీడియో కూడా చూడండి.",
+     "mood": "happy"
+    }
+   ]
+  }
+ ],
+ "voice_files": "/tmp/kv/2026-11-18-long/voice"
+}
