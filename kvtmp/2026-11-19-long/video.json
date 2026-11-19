@@ -1,0 +1,672 @@
+{
+ "out": "/tmp/kv/2026-11-19-long/out/gadget-news-2026-11-19.mp4",
+ "format": "landscape",
+ "theme": "konala",
+ "cohost": false,
+ "brand": "KONALA VADDA?",
+ "segment": "GADGET NEWS",
+ "site": "youtube.com/@KonalaVadda",
+ "lid": {
+  "text": "?",
+  "color": "#FFC83D"
+ },
+ "lang": "te",
+ "captions": true,
+ "music": true,
+ "thumb": {
+  "text": "APPLE MAPS INDIA",
+  "text2": "కొత్త Map వచ్చింది!",
+  "tag": "GADGET NEWS",
+  "mood": "wow",
+  "pose": "point",
+  "image": "/tmp/kv/2026-11-19-long/img/maps3_cut.png",
+  "from": "OLD MAP",
+  "to": "NEW MAP"
+ },
+ "voice_files": "/tmp/kv/2026-11-19-long/voice",
+ "scenes": [
+  {
+   "kind": "hero",
+   "kicker": "CONFIRMED · APPLE · NOV 18",
+   "title": "Apple Maps: కొత్త **India map**",
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/hero_maps.jpg",
+     "fit": "cover",
+     "label": "New map"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/hero_mumbai.jpg",
+     "fit": "cover",
+     "label": "Mumbai: before / after"
+    }
+   ],
+   "items": [
+    "300+ 3D LANDMARKS",
+    "TELUGU SUPPORT",
+    "HYDERABAD TRANSIT"
+   ],
+   "beats": [
+    {
+     "say": "మీ iPhone లో Maps, ఇప్పుడు పూర్తిగా మారిపోయింది! Hyderabad transit routes, Telugu labels support, అన్నీ వచ్చేశాయి.",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "ఇవాళ Gadget News Today లో, ఐదు పెద్ద updates ఉన్నాయి. మొదటిది ఇదే, Apple Maps కొత్త India map.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "ఇక ఈ వీడియో లో మిగతా news లు చూస్తే, Google AI agent free గా India కి. Samsung కొత్త beta, 5,500 nits watch, చివరిగా GTA 6. చివరి వరకు చూడండి.",
+     "mood": "happy",
+     "show": 3,
+     "say_te": "ఇక ఈ వీడియో లో మిగతా న్యూస్ లు చూస్తే, గూగుల్ ఏ ఐ ఏజెంట్ ఫ్రీ గా ఇండియా కి. శామ్‌సంగ్ కొత్త బీటా, ఐదు వేల ఐదు వందల నిట్స్ వాచ్, చివరిగా జీ టీ ఏ సిక్స్. చివరి వరకు చూడండి."
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "01",
+   "title": "Apple Maps: **India** కోసం",
+   "beats": [
+    {
+     "say": "ముందుగా Apple Maps. Apple, ఇది India కోసమే తయారు చేసిన map అని చెప్తోంది.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED · APPLE NEWSROOM",
+   "title": "**Petrol pump** దాటాక right!",
+   "meta": "01 / 05 · Source: Apple Newsroom India",
+   "items": [
+    "**300+** 3D landmarks, roads, buildings, parks",
+    "పేరు లేని roads కి landmark directions",
+    "Lane guidance · **15 stops** వరకు route"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/apple_Apple-Maps-India-Mumbai-before-and-after_big.jpg",
+     "fit": "contain",
+     "label": "Mumbai: old vs new"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/apple_Apple-Maps-India-Ekana-Cricket-stadium-before-and-after_big.jpg",
+     "fit": "contain",
+     "label": "Ekana stadium: old vs new"
+    }
+   ],
+   "beats": [
+    {
+     "say": "Roads, buildings, parks, shopping centres, అన్నీ ఇప్పుడు ఎక్కువ detail తో కనిపిస్తాయి. మూడు వందల కి పైగా 3D landmarks కూడా ఉన్నాయి.",
+     "mood": "talk",
+     "show": 1
+    },
+    {
+     "say": "అసలు twist ఏంటంటే, పేరు లేని roads కి, మన style లో directions చెప్తుంది. Petrol pump దాటాక, right తీసుకోండి, ఇలా.",
+     "mood": "wow",
+     "show": 2
+    },
+    {
+     "say": "Turn తీసుకునే ముందు, ఏ lane లో ఉండాలో చూపిస్తుంది. ఒకేసారి పదిహేను stops వరకు, route plan చేసుకోవచ్చు.",
+     "mood": "point",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · DUAL-LANGUAGE LABELS",
+   "title": "Telugu తో సహా **12 languages**",
+   "items": [
+    "Delhi: Hindi + English",
+    "Mumbai: Marathi + English",
+    "**Telugu**, Tamil, Kannada, Malayalam ...",
+    "iOS **27.2** లేదా తర్వాత (reports)"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/apple_Apple-Maps-India-New-Delhi-Qutb-Complex_inline.jpg",
+     "fit": "contain",
+     "label": "Qutb Complex, Delhi"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/apple_Apple-Maps-India-Brihanmumbai-Municipal-Corporation-Building_inline.jpg",
+     "fit": "contain",
+     "label": "BMC Building, Mumbai"
+    }
+   ],
+   "beats": [
+    {
+     "say": "మన road boards మీద, English తో పాటు local language కూడా ఉంటుంది కదా. Maps కూడా ఇప్పుడు అలాగే, రెండు languages లో labels చూపిస్తుంది.",
+     "mood": "talk"
+    },
+    {
+     "say": "Apple ఇచ్చిన example లో, Delhi లో Hindi, English. Mumbai లో Marathi, English labels.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "మన Telugu కూడా ఆ list లో ఉంది. Tamil, Kannada, Malayalam, Bengali, ఇలా మొత్తం పన్నెండు languages.",
+     "mood": "happy",
+     "show": 3
+    },
+    {
+     "say": "ఈ labels కోసం, iOS 27.2 లేదా తర్వాతి version కావాలి అని reports చెప్తున్నాయి. మీ iPhone ని update చేసుకోండి.",
+     "mood": "point",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED · APPLE NEWSROOM",
+   "title": "**Hyderabad** లో transit + Look Around",
+   "meta": "01 / 05 · Source: Apple Newsroom India",
+   "items": [
+    "Transit: Hyderabad, Bengaluru, Chennai + 5 cities",
+    "Indian Railways journeys కూడా",
+    "Look Around: street-level 3D view",
+    "AR Walking Directions"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/apple_Apple-Maps-India-Bengaluru_inline.jpg",
+     "fit": "contain",
+     "label": "Look Around: Bengaluru"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/apple_Apple-Maps-India-3up_big.jpg",
+     "fit": "contain",
+     "label": "Navigation"
+    }
+   ],
+   "beats": [
+    {
+     "say": "Public transport లో వెళ్ళేవాళ్లకి కూడా good news. Hyderabad తో సహా ఎనిమిది cities లో, transit directions వచ్చాయి.",
+     "mood": "happy",
+     "show": 1
+    },
+    {
+     "say": "Indian Railways journeys కూడా plan చేయొచ్చు. మీ stop రాగానే, దిగాలి అని notification కూడా వస్తుంది.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Look Around తో, streets ని 3D photos లో చూడొచ్చు. AR Walking Directions లో, phone పైకి ఎత్తితే, దారి camera view లోనే కనిపిస్తుంది.",
+     "mood": "wow",
+     "show": 4
+    },
+    {
+     "say": "Google Maps కి ఇది పెద్ద పోటీ నే. మీరు ఏ map వాడతారు? కామెంట్ లో చెప్పండి.",
+     "mood": "think"
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "02",
+   "title": "Gemini Tasks: **Free** గా India కి",
+   "beats": [
+    {
+     "say": "ఇక రెండో news. ఇది Android, iPhone, ఇద్దరికీ పనికొస్తుంది.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED · GOOGLE BLOG · NOV 17",
+   "title": "మీ పనులు **AI** చేస్తుంది",
+   "meta": "02 / 05 · Source: Google Blog",
+   "items": [
+    "Free: **India**, US, Japan, Korea, Canada, Australia",
+    "Gemini home screen: Chat → **Task**",
+    "Bills, appointments, shopping"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/g_hero.jpg",
+     "fit": "cover",
+     "label": "Task mode"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/g_tasks_text.jpg",
+     "fit": "contain",
+     "label": "Gemini Tasks"
+    }
+   ],
+   "beats": [
+    {
+     "say": "అసలు విషయం ఏంటంటే, Google ఇప్పుడు Gemini లో Tasks అనే AI agent ని free గా ఇస్తోంది. ఆ ఆరు దేశాల list లో, India కూడా ఉంది!",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "Gemini home screen లో, Chat నుంచి Task కి మారితే చాలు. ఒక పనిని, step by step, అదే పూర్తి చేస్తుంది.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Google blog లో examples చూడండి. Appointments book చేయడం, bills analyse చేయడం, online shopping. Email, calendar, Google Pay తో connect అవుతుంది.",
+     "mood": "talk",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · GOOGLE BLOG",
+   "title": "మన **డబ్బులు** safe నా?",
+   "items": [
+    "Buy ముందు మీ permission అడుగుతుంది",
+    "మీరే **spending limit** పెట్టొచ్చు",
+    "ప్రతి task, వేరే sandbox లో",
+    "Texting, email forward: **US** లో మాత్రమే"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/g_hero1.jpg",
+     "fit": "cover",
+     "label": "Gemini Tasks"
+    }
+   ],
+   "beats": [
+    {
+     "say": "అయితే, AI మన డబ్బులతో shopping చేస్తే భయం ఉంటుంది కదా. Buy button నొక్కే ముందు, Gemini ఆగి, మీ permission అడుగుతుంది.",
+     "mood": "oops",
+     "show": 1
+    },
+    {
+     "say": "మీరే ఒక spending limit పెట్టొచ్చు. ప్రతి task, వేరే sandbox లో run అవుతుంది అని Google చెప్తోంది.",
+     "mood": "point",
+     "show": 3
+    },
+    {
+     "say": "కానీ, Gemini కి text చేయడం, email forward చేయడం, ఇవి ఇప్పుడు US లోనే. అన్ని mistakes పోలేదు అని, Google నే ఒప్పుకుంది.",
+     "mood": "think",
+     "show": 4
+    },
+    {
+     "say": "నా సలహా ఏంటంటే, చిన్న పనులతో try చేయండి. Payments కి మాత్రం, ప్రతిసారీ మీరే check చేయండి.",
+     "mood": "happy"
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "03",
+   "title": "One UI 9.5 **Beta**: India లో",
+   "beats": [
+    {
+     "say": "మూడో news, Samsung Galaxy S26 ఉన్నవాళ్ల కోసం.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED · SAMSUNG · NOV 18",
+   "title": "Galaxy S26 కి **One UI 9.5** beta",
+   "meta": "03 / 05 · Source: Samsung Mobile Press",
+   "items": [
+    "India, US, UK, Korea, Germany, Poland",
+    "Galaxy S26, S26+, S26 Ultra",
+    "Samsung Members app లో join"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/ss_galaxy-s26-ultra-features-highlights-refined-design-start-mo.jpg",
+     "fit": "cover",
+     "label": "Galaxy S26 Ultra"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/ss_galaxy-s26-ultra-features-one-ui.jpg",
+     "fit": "contain",
+     "label": "One UI"
+    }
+   ],
+   "beats": [
+    {
+     "say": "Samsung, One UI 9.5 beta program ని start చేసింది. మొదటి రోజే, India లో కూడా open అయ్యింది.",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "ప్రస్తుతం Galaxy S26, S26 Plus, S26 Ultra కి మాత్రమే. Samsung Members app ఓపెన్ చేసి, beta card మీద tap చేసి join అవ్వండి.",
+     "mood": "point",
+     "show": 3
+    },
+    {
+     "say": "One UI 9 beta లో ఉన్నవాళ్లు కూడా, ఈ కొత్త program కి మళ్ళీ sign up చేయాలి.",
+     "mood": "talk"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "CONFIRMED · SAMSUNG",
+   "title": "One UI 9.5 లో **కొత్తవి**",
+   "items": [
+    "**App Lock**: ఒక్కో app కి lock",
+    "Pro, Pro Video: custom presets",
+    "Health: Mindful note, Medications",
+    "Floating accessibility shortcut"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/ss_galaxy-s26-ultra-features-privacy-display-setting-quick-panel.jpg",
+     "fit": "contain",
+     "label": "Privacy controls"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/ss_galaxy-s26-ultra-features-camera-spec-start.jpg",
+     "fit": "cover",
+     "label": "Camera"
+    }
+   ],
+   "beats": [
+    {
+     "say": "Biggest feature, App Lock. ఒక్కో app ని, fingerprint లేదా face తో lock చేయొచ్చు. Lock చేస్తే, ఆ app notifications, widgets కూడా hide అవుతాయి.",
+     "mood": "cool",
+     "show": 1
+    },
+    {
+     "say": "Camera లో Pro, Pro Video modes కి, custom controls, presets వచ్చాయి. Photography fans కి ఇది బాగుంటుంది.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Samsung Health లో, Mindful note అనే journaling, Medications reminders. ఇంకా, ఒక floating accessibility shortcut కూడా వచ్చింది.",
+     "mood": "talk",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "REPORTS · జాగ్రత్త",
+   "title": "Beta install ముందు **ఇది** చూడండి",
+   "items": [
+    "First beta ~**3.6 GB** (user reports)",
+    "Stable కి వెనక్కి వస్తే **phone reset**",
+    "Stable: Galaxy S27 తో రావచ్చు (expected)"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/ss_galaxy-s26-ultra-features-highlights-refined-design-start-mo.jpg",
+     "fit": "cover",
+     "label": "Galaxy S26 Ultra"
+    }
+   ],
+   "beats": [
+    {
+     "say": "కానీ ఒక జాగ్రత్త. ఇది beta, bugs ఉండొచ్చు. First update దాదాపు 3.6 GB అని, users చెప్తున్నారు.",
+     "mood": "oops",
+     "show": 1
+    },
+    {
+     "say": "Beta నుంచి మళ్ళీ stable కి వెనక్కి వస్తే, phone reset అవుతుంది. అందుకే, ముందే backup తీసుకోండి.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Stable version, Galaxy S27 తో పాటు రావచ్చు అని reports. Samsung ఇంకా date చెప్పలేదు.",
+     "mood": "think",
+     "show": 3
+    },
+    {
+     "say": "అదే మీ daily phone అయితే, నా verdict, stable వచ్చేవరకు wait చేయండి.",
+     "mood": "happy"
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "04",
+   "title": "**5,500 nits** smartwatch",
+   "beats": [
+    {
+     "say": "నాలుగో news, smartwatch fans కోసం. ఈ brightness number వింటే, షాక్ అవుతారు.",
+     "mood": "wow"
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED · HONOR · NOV 19",
+   "title": "Honor Watch 6 Pro: **global** launch",
+   "meta": "04 / 05 · Source: Honor UK, Beebom",
+   "items": [
+    "1.5\" LTPO tandem OLED",
+    "Ceramic bezel, steel frame",
+    "5ATM · IP68 / IP69"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/honor_pc3.jpg",
+     "fit": "cover",
+     "label": "Watch 6 Pro"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/honor_pc4.jpg",
+     "fit": "cover",
+     "label": "Ceramic bezel"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/honor_pc6.jpg",
+     "fit": "cover",
+     "label": "Black"
+    }
+   ],
+   "beats": [
+    {
+     "say": "ఇక ఈ Honor Watch 6 Pro, ఇవాళ Europe, UK లో launch అయ్యింది. China లో ఇది ఇంతకుముందే వచ్చింది.",
+     "mood": "talk",
+     "show": 1
+    },
+    {
+     "say": "1.5 inch tandem OLED display. Ceramic bezel, steel frame తో, చూడటానికి premium గా ఉంది.",
+     "mood": "point",
+     "show": 2,
+     "say_te": "ఇందులో ఒకటిన్నర ఇంచ్ టాండమ్ ఓలెడ్ డిస్‌ప్లే ఉంది. సెరామిక్ బెజెల్, స్టీల్ ఫ్రేమ్ తో, చూడటానికి ప్రీమియం గా ఉంది."
+    },
+    {
+     "say": "ఇంకా ఈ watch కి, water, dust protection కోసం 5ATM, IP69 rating కూడా ఉంది.",
+     "mood": "cool",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "CONFIRMED · HONOR",
+   "title": "**5,500** nits brightness",
+   "items": [
+    [
+     "5,500",
+     "nits peak brightness"
+    ],
+    [
+     "18",
+     "days వరకు battery"
+    ]
+   ],
+   "image": {
+    "src": "/tmp/kv/2026-11-19-long/img/honor_id.png",
+    "fit": "contain"
+   },
+   "beats": [
+    {
+     "say": "Peak brightness ఎంతో తెలుసా? ఏకంగా 5,500 nits! ఎండలో కూడా screen clear గా కనిపించాలి అనేదే దీని target.",
+     "mood": "wow",
+     "show": 1,
+     "say_te": "పీక్ బ్రైట్‌నెస్ ఎంతో తెలుసా? ఏకంగా ఐదు వేల ఐదు వందల నిట్స్! ఎండలో కూడా స్క్రీన్ క్లియర్ గా కనిపించాలి అనేదే దీని టార్గెట్."
+    },
+    {
+     "say": "ఇక battery విషయానికి వస్తే, ultra long mode లో పద్దెనిమిది రోజుల వరకు. Normal గా దాదాపు పది రోజులు, always-on display తో ఏడు రోజులు.",
+     "mood": "point",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · EUROPE PRICES",
+   "title": "ధర + **India** status",
+   "items": [
+    "Black: **€379.90**",
+    "Silver steel: **€429.90**",
+    "Early bird: **€100** తగ్గింపు",
+    "India launch: ఇంకా announce కాలేదు"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/honor_pc8.jpg",
+     "fit": "cover",
+     "label": "Brown"
+    },
+    {
+     "src": "/tmp/kv/2026-11-19-long/img/honor_pc1.jpg",
+     "fit": "cover",
+     "label": "Watch 6 Pro"
+    }
+   ],
+   "beats": [
+    {
+     "say": "Europe లో Black model ధర, 379.90 యూరోలు. Silver steel strap model, 429.90 యూరోలు.",
+     "mood": "talk",
+     "show": 2,
+     "say_te": "యూరప్ లో బ్లాక్ మోడల్ ధర, త్రీ హండ్రెడ్ సెవెంటీ నైన్ పాయింట్ నైన్ టీ యూరోలు. సిల్వర్ స్టీల్ స్ట్రాప్ మోడల్, ఫోర్ హండ్రెడ్ ట్వెంటీ నైన్ పాయింట్ నైన్ టీ యూరోలు."
+    },
+    {
+     "say": "Early bird offer లో, 100 యూరోలు తగ్గింపు ఉంది. గుర్తుంచుకోండి, ఇది India ధర కాదు.",
+     "mood": "point",
+     "show": 3,
+     "say_te": "ఎర్లీ బర్డ్ ఆఫర్ లో, వంద యూరోలు తగ్గింపు ఉంది. గుర్తుంచుకోండి, ఇది ఇండియా ధర కాదు."
+    },
+    {
+     "say": "China model లో ఉన్న blood pressure, cardiac alert features, global model లో లేవు అని reports చెప్తున్నాయి.",
+     "mood": "think"
+    },
+    {
+     "say": "ఇప్పటికైతే India launch గురించి, Honor ఇంకా ఏమీ చెప్పలేదు. నా verdict, India ధర వచ్చేవరకు wait.",
+     "mood": "happy",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "05",
+   "title": "**GTA 6**: ఇవాళే release",
+   "beats": [
+    {
+     "say": "చివరిగా, gamers కోసం ఒక పెద్ద news.",
+     "mood": "wow"
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "CONFIRMED · BUSINESS STANDARD",
+   "title": "GTA 6: **PS5, Xbox** లో ఇవాళే",
+   "meta": "05 / 05 · Source: Business Standard",
+   "items": [
+    "Nov 19, రాత్రి 12 గంటలకి unlock (IST)",
+    "Standard: **₹5,999**",
+    "Ultimate: **₹7,499** (PS Store)",
+    "PS5 + Xbox Series X|S · PC date లేదు"
+   ],
+   "beats": [
+    {
+     "say": "GTA 6, ఇవాళ, నవంబర్ పంతొమ్మిది, అర్ధరాత్రి పన్నెండు గంటలకి, India లో unlock అయ్యింది.",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "India లో Standard edition ధర, ఐదు వేల తొమ్మిది వందల తొంభై తొమ్మిది రూపాయలు. PlayStation Store లో Ultimate edition, ఏడు వేల నాలుగు వందల తొంభై తొమ్మిది రూపాయలు.",
+     "mood": "point",
+     "show": 3
+    },
+    {
+     "say": "PS5, Xbox Series X, S లో మాత్రమే. PC version కి, Rockstar ఇంకా date చెప్పలేదు.",
+     "mood": "think",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "STORAGE CHECK · BUSINESS STANDARD",
+   "title": "**212 GB** free space!",
+   "items": [
+    [
+     "212GB",
+     "download కి కావాల్సిన space వరకు"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "ఇక్కడే అసలు problem. Download కి, 212 GB వరకు free space కావాలి అని Business Standard చెప్తోంది.",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "మీ console storage ఇప్పుడే check చేయండి. పాత games కొన్ని delete చేయాల్సి రావొచ్చు!",
+     "mood": "oops"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "KONALA VADDA? VERDICT",
+   "title": "ఇవాళ్టి **verdicts**",
+   "items": [
+    "Apple Maps: iOS 27.2 కి **update**",
+    "Gemini Tasks: **try**, payments జాగ్రత్త",
+    "One UI 9.5 beta: daily phone అయితే **WAIT**",
+    "Honor Watch 6 Pro: India ధర కోసం **WAIT**",
+    "GTA 6: ముందు **storage** check"
+   ],
+   "image": {
+    "src": "/tmp/kv/2026-11-19-long/img/apple_Apple-Maps-India-3up_big.jpg",
+    "fit": "contain"
+   },
+   "beats": [
+    {
+     "say": "ఇక ఇవాళ్టి verdicts. iPhone ఉంటే, update చేసి కొత్త Maps try చేయండి. Gemini Tasks కూడా try చేయండి, కానీ payments జాగ్రత్త.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Samsung beta, daily phone అయితే wait. Honor watch కి, India ధర కోసం wait. GTA 6 కొనే ముందు, storage check.",
+     "mood": "think",
+     "show": 5
+    },
+    {
+     "say": "మీకు ఇవాళ్టి news లో ఏది నచ్చింది? కామెంట్ లో మీ verdict చెప్పండి.",
+     "mood": "happy",
+     "bubble": "మీ verdict?"
+    }
+   ]
+  },
+  {
+   "kind": "outro",
+   "title": "Konala Vadda?",
+   "sub": "youtube.com/@KonalaVadda",
+   "items": [
+    "Subscribe: ప్రతి gadget కి clear verdict",
+    "ముందటి Gadget News Today కూడా చూడండి"
+   ],
+   "beats": [
+    {
+     "say": "ఇలాంటి daily gadget news కోసం, Konala Vadda? channel ని subscribe చేయండి. ముందటి Gadget News Today వీడియో కూడా చూడండి.",
+     "mood": "happy"
+    }
+   ]
+  }
+ ]
+}
