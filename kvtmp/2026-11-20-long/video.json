@@ -1,0 +1,651 @@
+{
+ "out": "/tmp/kv/2026-11-20-long/nothing-os-5-update-explained.mp4",
+ "format": "landscape",
+ "theme": "konala",
+ "tts": "indicf5",
+ "lang": "te",
+ "brand": "KONALA VADDA?",
+ "segment": "UPDATE EXPLAINED",
+ "site": "youtube.com/@KonalaVadda",
+ "lid": {
+  "text": "?",
+  "color": "#FFC83D"
+ },
+ "cohost": false,
+ "music": true,
+ "captions": true,
+ "voice_files": "/tmp/kv/2026-11-20-long/voice",
+ "thumb": {
+  "text": "NOTHING OS 5.0",
+  "text2": "మీ ఫోన్ కి వచ్చిందా?",
+  "tag": "UPDATE EXPLAINED",
+  "mood": "wow",
+  "pose": "point",
+  "image": "/tmp/kv/2026-11-20-long/img/os_6e853c90.jpg"
+ },
+ "scenes": [
+  {
+   "kind": "hero",
+   "kicker": "UPDATE EXPLAINED · NOTHING OS 5.0",
+   "title": "Nothing OS 5.0 వచ్చేసింది!",
+   "items": [
+    "Android 17",
+    "Phone (2a) & (2a) Plus",
+    "Stable update"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_63f0a587.jpg",
+     "label": "Nothing OS 5.0"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_6e853c90.jpg",
+     "label": "New homescreen"
+    }
+   ],
+   "fit": "cover",
+   "beats": [
+    {
+     "say": "మీ దగ్గర Nothing Phone 2a ఉందా? అయితే మీకు గుడ్ న్యూస్! Android 17 తో, Nothing OS 5.0 stable update, ఇప్పుడు మీ ఫోన్ కి వస్తోంది.",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "ఇందులో కొత్త homescreen వచ్చింది. కొత్త widgets, Glyph app, ఇంకా Android 17 privacy features కూడా, అన్నీ ఒకే update లో.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "ఈ రోజు Update Explainer లో, ఏం కొత్తగా వచ్చింది, ఏ ఫోన్లకి ఎప్పుడు వస్తుంది, ఎలా update చేయాలి, అన్నీ simple గా చెప్తా.",
+     "mood": "happy",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "story",
+   "kicker": "REPORTED · USERS + MEDIA",
+   "title": "Phone (2a) కి stable update మొదలైంది",
+   "meta": "Sources: Androidpure (Nov 19), Cashify, My Mobile India (Nov 20)",
+   "items": [
+    "Nov 19 నుంచి Phone (2a), (2a) Plus users కి OTA update screenshots",
+    "Nothing schedule: Phone (2a) series కి **Mid November** · phased rollout"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/mux_NQud01.jpg",
+     "label": "Nothing OS 5.0 homescreen"
+    }
+   ],
+   "fit": "cover",
+   "beats": [
+    {
+     "say": "అసలు విషయం ఏంటంటే, నవంబర్ పంతొమ్మిది నుంచి, Phone 2a users, X లో update screenshots పెడుతున్నారు. Cashify, My Mobile India కూడా, rollout మొదలైందని రిపోర్ట్ చేశాయి.",
+     "mood": "point",
+     "show": 1
+    },
+    {
+     "say": "అయితే ఒక్క విషయం చెప్పాలి, Nothing కంపెనీ మాత్రం ఇంకా separate గా announce చేయలేదు. కానీ వాళ్ళ official schedule లో, Phone 2a series కి mid November అనే ఉంది. కాబట్టి ఇది టైం కి వచ్చింది.",
+     "mood": "think",
+     "show": 2
+    },
+    {
+     "say": "ఒక్క విషయం గుర్తుపెట్టుకోండి, ఇది phased rollout. అంటే అందరికీ ఒకేరోజు రాదు, కొన్ని రోజుల్లో batches గా వస్తుంది.",
+     "mood": "talk",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "UPDATE SIZE · USER REPORTS",
+   "title": "ఎంత data కావాలి?",
+   "items": [
+    [
+     "3.15 GB",
+     "Stable నుంచి update చేస్తే"
+    ],
+    [
+     "361 MB",
+     "Open Beta లో ఉన్నవాళ్ళకి"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "Size విషయానికొస్తే, users షేర్ చేసిన screenshots ప్రకారం, stable version నుంచి update చేస్తే, దాదాపు త్రీ పాయింట్ వన్ ఫైవ్ జీ బీ.",
+     "mood": "wow",
+     "show": 1
+    },
+    {
+     "say": "Open Beta లో ఆల్రెడీ ఉన్నవాళ్ళకి మాత్రం, కేవలం త్రీ సిక్స్టీ వన్ ఎం బీ. అందుకే Wi-Fi లోనే download చేయండి.",
+     "mood": "point",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "01",
+   "title": "ఏం కొత్తగా వచ్చింది?",
+   "sub": "Design · Glyph · Widgets · Essential AI",
+   "beats": [
+    {
+     "say": "సరే, ఇప్పుడు అసలు మజా పార్ట్ కి వెళ్దాం. ఈ update లో ఏం కొత్తగా వచ్చిందో చూద్దాం.",
+     "mood": "happy"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · NOTHING",
+   "title": "కొత్త homescreen",
+   "items": [
+    "Wallpaper కి తగ్గ **colours**",
+    "Tinted app icons",
+    "Transparent widgets",
+    "Apps + widgets **batch editing**"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_6e853c90.jpg",
+     "label": "Refreshed homescreen"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_90a0adb8.jpg",
+     "label": "Widgets"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "మొదటిది homescreen, ఇది పూర్తిగా refresh అయ్యింది. మీ wallpaper ని బట్టి colours మారతాయి, app icons కూడా tint అవుతాయి.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Widgets transparent గా కనిపిస్తాయి. ఇంకా, చాలా apps, widgets ని ఒకేసారి select చేసి, move చేయొచ్చు. దీన్నే batch editing అంటారు.",
+     "mood": "cool",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · NOTHING",
+   "title": "Geist font + కొత్త clockfaces",
+   "items": [
+    "కొత్త **Geist** typeface",
+    "Settings, Camera, Gallery లో కొత్త icons",
+    "Clockfaces: **Gooey**, **Micrographics**"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_31d22b4f.jpg",
+     "label": "Geist typeface"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_fb94796f.jpg",
+     "label": "Lock screen clock"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "తర్వాత, కొత్త Geist font వచ్చింది. Settings, Camera, Gallery, status bar, అన్నింటిలో icons, layouts ఒకే లుక్ లోకి వచ్చాయి.",
+     "mood": "talk",
+     "show": 2
+    },
+    {
+     "say": "Lock screen కోసం, రెండు కొత్త clockfaces ఉన్నాయి. Gooey, bold గా fun గా ఉంటుంది. Micrographics, ఎక్కువ information చూపిస్తుంది.",
+     "mood": "happy",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · NOTHING",
+   "title": "Glyph app + Glyph Timer",
+   "items": [
+    "అన్ని Glyph settings **ఒకే app** లో",
+    "Homescreen నుంచే **Glyph Timer** countdown"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_8b5d9ed5.jpg",
+     "label": "Glyph Timer widget"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_90a0adb8.jpg",
+     "label": "Glyph Timer"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "Nothing ఫోన్ అంటేనే Glyph lights కదా. ఇప్పుడు వాటి settings అన్నీ, ఒకే Glyph app లోకి వచ్చేశాయి.",
+     "mood": "point",
+     "show": 1
+    },
+    {
+     "say": "కొత్త Glyph Timer తో, homescreen నుంచే countdown స్టార్ట్ చేయొచ్చు. ఫోన్ బోర్లా పెట్టినా, వెనక lights లో టైం చూసుకోవచ్చు.",
+     "mood": "cool",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · NOTHING",
+   "title": "కొత్త widgets",
+   "items": [
+    "**Collector**: photos ని stickers గా homescreen పై",
+    "**Away Time**: ఫోన్ పక్కన పెట్టిన టైం track"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_6a74776a.jpg",
+     "label": "Away Time"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_e1048590.jpg",
+     "label": "Collector"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "రెండు కొత్త widgets కూడా ఉన్నాయి. Collector తో, మీకు నచ్చిన photos ని, homescreen మీద stickers లాగా పెట్టుకోవచ్చు.",
+     "mood": "happy",
+     "show": 1
+    },
+    {
+     "say": "Away Time ఇంకా interesting. మీరు ఫోన్ కింద పెట్టగానే, టైం లెక్కపెడుతుంది. వారం మొత్తం, మీ longest breaks ఏంటో చూపిస్తుంది.",
+     "mood": "wow",
+     "show": 2
+    },
+    {
+     "say": "నిజం చెప్పాలంటే, ఫోన్ తక్కువ వాడమని, ఫోనే చెప్పడం, ఇది నాకు చాలా నచ్చింది.",
+     "mood": "laugh",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "CONFIRMED · ROLLING OUT SEPARATELY",
+   "title": "Essential AI tools",
+   "items": [
+    "**Smart Collections**: Essential Space captures auto గా group",
+    "**Essential Voice**: మాట్లాడుతుంటే live text, 100+ languages",
+    "**Essential Apps**: మాటలతో app తయారు (early beta, waitlist)"
+   ],
+   "beats": [
+    {
+     "say": "ఇప్పుడు AI side చూద్దాం. Essential Space లో, Smart Collections వచ్చాయి. మీరు సేవ్ చేసిన screenshots, notes, ఆటోమేటిక్ గా groups అవుతాయి.",
+     "mood": "point",
+     "show": 1
+    },
+    {
+     "say": "Essential Voice లో, మీరు మాట్లాడుతుండగానే text కనిపిస్తుంది. వంద కంటే ఎక్కువ languages లో transcribe చేస్తుంది.",
+     "mood": "wow",
+     "show": 2
+    },
+    {
+     "say": "ఇంకా పెద్ద twist ఏంటంటే, మీకు ఏ app కావాలో మాటల్లో చెప్తే, coding లేకుండా Essential App తయారవుతుంది. కానీ ఇది early beta, waitlist లో చేరాలి.",
+     "mood": "wow",
+     "show": 3
+    },
+    {
+     "say": "గమనించండి, Essential Space updates, Google Play ద్వారా separate గా వస్తాయని Nothing చెప్పింది.",
+     "mood": "think",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "02",
+   "title": "Android 17 features",
+   "sub": "Notifications · Quick Share · Privacy",
+   "beats": [
+    {
+     "say": "ఇవన్నీ Nothing features. ఇప్పుడు Android 17 తో వచ్చిన, పెద్ద మార్పులు చూద్దాం.",
+     "mood": "talk"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · ANDROID 17",
+   "title": "Notifications, Quick Settings వేరు వేరు",
+   "items": [
+    "పై **ఎడమ** నుంచి swipe: Notifications",
+    "పై **కుడి** నుంచి swipe: Quick Settings",
+    "Bluetooth controls కొత్తగా: ఒక్క tap తో connect"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_a7aee45b.jpg",
+     "label": "Separate panels"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_1fd142dd.jpg",
+     "label": "Bluetooth controls"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "Notifications, Quick Settings ఇప్పుడు వేరు వేరు panels. పైన కుడి నుంచి swipe చేస్తే Quick Settings వస్తుంది. ఎడమ నుంచి swipe చేస్తే Notifications వస్తాయి, అచ్చం iPhone లో లాగే.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "Quick Settings లో Bluetooth కూడా redesign అయ్యింది. దగ్గరలో ఉన్న earbuds ని, ఒక్క tap తో connect, disconnect చేయొచ్చు.",
+     "mood": "cool",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · ANDROID 17",
+   "title": "Quick Share: iPhone కి కూడా",
+   "items": [
+    "Android ఫోన్లకి direct గా files",
+    "iPhone కి **QR code** + secure web link"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_7eee1e54.jpg",
+     "label": "Quick Share QR code"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "Quick Share తో, దగ్గర ఉన్న Android ఫోన్లకి files పంపొచ్చు. ఇది మనకి తెలిసిందే.",
+     "mood": "talk",
+     "show": 1
+    },
+    {
+     "say": "కానీ కొత్తది ఏంటంటే, iPhone ఉన్న ఫ్రెండ్ కి కూడా, QR code చూపిస్తే చాలు. Secure web link ద్వారా, వాళ్ళు file download చేసుకోవచ్చు.",
+     "mood": "wow",
+     "show": 2
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · ANDROID 17",
+   "title": "Privacy indicators",
+   "items": [
+    "Camera, mic, location వాడితే **status bar** లో సూచన",
+    "Updated permission controls",
+    "AI processing indicator (reported)"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_9b8d62d6.jpg",
+     "label": "Privacy indicators"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "Privacy విషయంలో, ఏ app మీ camera, mic, లేదా location వాడుతుందో, status bar లోనే క్లియర్ గా కనిపిస్తుంది. Permission controls కూడా update అయ్యాయి.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "9to5Google, Cashify రిపోర్ట్స్ ప్రకారం, AI sensitive data ప్రాసెస్ చేస్తుంటే కూడా, ఒక separate indicator వస్తుంది.",
+     "mood": "think",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · ANDROID 17",
+   "title": "ఇంకా చిన్న చిన్న upgrades",
+   "items": [
+    "Noto **3D emoji**",
+    "Expanded Dark Theme",
+    "Brighter HDR",
+    "కొత్త Recents screen",
+    "Better screen recording"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_c55b5d4a.jpg",
+     "label": "Noto 3D emoji"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "ఇంకా చాలా చిన్న upgrades ఉన్నాయి. కొత్త 3D emoji, Dark Theme ఇప్పుడు ఎక్కువ apps లో పని చేస్తుంది, HDR content ఇంకా brightness తో కనిపిస్తుంది.",
+     "mood": "happy",
+     "show": 3
+    },
+    {
+     "say": "Recents screen redesign అయ్యింది, screen recording కూడా improve అయ్యింది. Assistant volume ని, separate గా పెట్టుకోవచ్చు.",
+     "mood": "talk",
+     "show": 5
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "REPORTED CHANGELOG · PHONE (2a)",
+   "title": "Phone (2a) camera మార్పులు",
+   "items": [
+    "7 adjustable **tuning effects**",
+    "Improved filters",
+    "**H.265** video recording"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/os_90a0adb8.jpg",
+     "label": "Nothing OS 5.0"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "Phone 2a camera కి కూడా మార్పులు ఉన్నాయని, Cashify, My Mobile India చెప్పాయి. ఏడు adjustable tuning effects, improved filters వచ్చాయి.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "H.265 video recording కూడా వచ్చింది. అంటే అదే quality కి, videos తక్కువ storage తీసుకుంటాయి.",
+     "mood": "cool",
+     "show": 3,
+     "say_te": "హెచ్ టూ సిక్స్ ఫైవ్ వీడియో రికార్డింగ్ ఆప్షన్ కూడా వచ్చింది. అంటే అదే క్వాలిటీ కి, వీడియోస్ తక్కువ స్టోరేజ్ తీసుకుంటాయి."
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "03",
+   "title": "ఏ ఫోన్ కి ఎప్పుడు?",
+   "sub": "Nothing official schedule",
+   "beats": [
+    {
+     "say": "ఇప్పుడు అందరూ అడిగే question. నా ఫోన్ కి ఎప్పుడు వస్తుంది? Nothing official schedule చూద్దాం.",
+     "mood": "think"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "CONFIRMED · NOTHING SCHEDULE",
+   "title": "Nothing OS 5.0 rollout",
+   "items": [
+    "Phone (3): **Oct 12** నుంచి ✓",
+    "Phone (4a), (4a) Pro, (3a), (3a) Pro: **Oct 30** నుంచి ✓",
+    "Phone (2a), (2a) Plus: **Mid Nov**, ఇప్పుడు వస్తోంది",
+    "Phone (3a) Lite: **Late Dec**",
+    "Phone (4b), CMF Phone 2 Pro: **Mid Jan**"
+   ],
+   "images": [
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/shop_0000s_0012_Phone-3-black.png",
+     "label": "Phone (3)"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/shop_Phone-4a-Pro-White.png",
+     "label": "Phone (4a) Pro"
+    },
+    {
+     "src": "/tmp/kv/2026-11-20-long/img/shop_Phone-4a-Pink.png",
+     "label": "Phone (4a)"
+    }
+   ],
+   "fit": "contain",
+   "beats": [
+    {
+     "say": "మొదట Phone 3 కి, అక్టోబర్ పన్నెండు నుంచే stable update వచ్చింది. Phone 4a, 4a Pro, 3a, 3a Pro కి, అక్టోబర్ ముప్పై నుంచి batches గా మొదలైంది.",
+     "mood": "point",
+     "show": 2
+    },
+    {
+     "say": "ఇక మన Phone 2a, 2a Plus కి, ఇప్పుడు నవంబర్ లో వస్తోంది. ఇదే ఈ వారం పెద్ద న్యూస్.",
+     "mood": "happy",
+     "show": 3
+    },
+    {
+     "say": "Phone 3a Lite కి, డిసెంబర్ చివర్లో. Phone 4b, CMF Phone 2 Pro కి, జనవరి మధ్యలో వస్తుందని Nothing చెప్పింది. ఈ dates మారొచ్చు అని కూడా చెప్పింది.",
+     "mood": "talk",
+     "show": 5
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "CONFIRMED · NO NOTHING OS 5.0",
+   "title": "ఈ ఫోన్లకి రాదు",
+   "items": [
+    [
+     "3 phones",
+     "Phone (1) · Phone (2) · CMF Phone 1"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "కానీ బ్యాడ్ న్యూస్ ఏంటంటే, Phone 1, Phone 2, ఇంకా CMF Phone 1 కి, Nothing OS 5.0 రాదు.",
+     "mood": "oops",
+     "show": 1
+    },
+    {
+     "say": "ఇవి major software support చివరికి వచ్చేశాయని, Nothing స్పష్టంగా చెప్పింది. మీ దగ్గర ఇవి ఉంటే, Android 17 కోసం ఎదురుచూడకండి.",
+     "mood": "think",
+     "show": 1
+    }
+   ]
+  },
+  {
+   "kind": "chapter",
+   "num": "04",
+   "title": "ఎలా update చేయాలి?",
+   "sub": "4 simple steps",
+   "beats": [
+    {
+     "say": "సరే, మీ ఫోన్ కి వచ్చిందో లేదో, ఎలా చెక్ చేయాలో చూద్దాం.",
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "HOW TO UPDATE",
+   "title": "Update చేసే ముందు, తర్వాత",
+   "items": [
+    "Photos, contacts, messages **backup**",
+    "**Wi-Fi** + కనీసం 50% battery",
+    "Settings → System → **System updates**",
+    "Check for updates → **Download and install**"
+   ],
+   "beats": [
+    {
+     "say": "ముందు, మీ photos, contacts, messages, అన్నీ backup తీసుకోండి. Nothing కూడా ఇదే చెప్తోంది.",
+     "mood": "point",
+     "show": 1
+    },
+    {
+     "say": "Wi-Fi కి connect చేయండి, battery కనీసం యాభై పర్సెంట్ ఉండేలా చూసుకోండి.",
+     "mood": "talk",
+     "show": 2
+    },
+    {
+     "say": "తర్వాత Settings లోకి వెళ్ళి, System, ఆ తర్వాత System updates ఓపెన్ చేయండి.",
+     "mood": "point",
+     "show": 3
+    },
+    {
+     "say": "Check for updates నొక్కండి, update కనిపిస్తే Download and install చేయండి. ఇప్పుడు కనిపించకపోతే, టెన్షన్ వద్దు, కొన్ని రోజుల్లో వస్తుంది.",
+     "mood": "happy",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "compare",
+   "kicker": "KONALA VADDA? VERDICT",
+   "title": "Update చేయాలా, వద్దా?",
+   "vs": "?",
+   "left": {
+    "title": "Wait",
+    "mark": "cross",
+    "items": [
+     "Phone (3a) Lite: Dec",
+     "Phone (4b), CMF Phone 2 Pro: Jan",
+     "Phone (1), (2), CMF Phone 1: రాదు"
+    ]
+   },
+   "right": {
+    "title": "Update now",
+    "mark": "check",
+    "items": [
+     "Phone (2a), (2a) Plus",
+     "Phone (3), (3a), (4a) series",
+     "Backup + Wi-Fi తో"
+    ]
+   },
+   "note": "మీ ఫోన్ ఏది? **కామెంట్** లో చెప్పండి",
+   "beats": [
+    {
+     "say": "ఇప్పుడు నా verdict. Phone 3a Lite, Phone 4b, CMF Phone 2 Pro ఉన్నవాళ్ళు, కొంచెం ఆగాల్సిందే. Phone 1, Phone 2, CMF Phone 1 కి ఇది రాదు.",
+     "mood": "think",
+     "show": 1
+    },
+    {
+     "say": "Phone 2a, 2a Plus, ఇంకా Phone 3, 3a, 4a series ఉన్నవాళ్ళు, backup తీసుకుని, Wi-Fi లో update చేసేయండి. ఇది పెద్ద, useful update.",
+     "mood": "happy",
+     "show": 2
+    },
+    {
+     "say": "అయితే, మీ దగ్గర ఏ Nothing ఫోన్ ఉంది? Update వచ్చిందా? కామెంట్ లో చెప్పండి.",
+     "mood": "you",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "outro",
+   "title": "Subscribe: Konala Vadda?",
+   "sub": "youtube.com/@KonalaVadda",
+   "beats": [
+    {
+     "say": "ఇలాంటి update explainers కోసం, కొనాలా వద్దా ఛానల్ ని సబ్‌స్క్రైబ్ చేయండి. కామెంట్ లో మీ verdict చెప్పండి.",
+     "mood": "happy"
+    },
+    {
+     "say": "నిన్నటి Gadget News Today వీడియోలో, Apple Maps కొత్త India map, Gemini Tasks గురించి చెప్పా. అది కూడా చూడండి.",
+     "mood": "point"
+    }
+   ]
+  }
+ ]
+}

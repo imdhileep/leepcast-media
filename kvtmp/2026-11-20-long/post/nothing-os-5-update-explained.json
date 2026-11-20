@@ -1,0 +1,203 @@
+{
+  "slug": "nothing-os-5-update-explained",
+  "title": "Nothing OS 5.0 Update వచ్చేసింది: Phone (2a) కి Android 17, ఏం కొత్త?",
+  "excerpt": "Android 17 ఆధారంగా Nothing OS 5.0 stable update ఇప్పుడు Phone (2a), (2a) Plus కి వస్తోంది. కొత్త homescreen, Glyph app, Away Time, Quick Share QR, ఏ ఫోన్ కి ఎప్పుడు, ఎలా update చేయాలి.",
+  "iso": "2026-11-20",
+  "kind": "update",
+  "device": "Nothing OS 5.0 (Android 17): Phone (2a) / (2a) Plus, Phone (3), (3a), (4a) series",
+  "youtubeId": "PENDING",
+  "image": {
+    "src": "/gadgets/nothing-os-5-update-explained/nothing-os-5.jpg",
+    "alt": "Nothing OS 5.0",
+    "credit": "Image: Nothing official (nothing.tech).",
+    "fit": "cover"
+  },
+  "verdicts": [
+    {
+      "device": "Phone (2a) / (2a) Plus",
+      "verdict": "buy",
+      "reason": "Update now: backup తీసుకుని Wi-Fi లో install చేయండి. Phased rollout, కనిపించకపోతే కొన్ని రోజులు ఆగండి."
+    },
+    {
+      "device": "Phone (3a) Lite, Phone (4b), CMF Phone 2 Pro",
+      "verdict": "wait",
+      "reason": "Nothing schedule: (3a) Lite late December, (4b) & CMF Phone 2 Pro mid January (dates మారొచ్చు)."
+    },
+    {
+      "device": "Phone (1), Phone (2), CMF Phone 1",
+      "verdict": "skip",
+      "reason": "Major software support ముగిసింది: Nothing OS 5.0 రాదు అని Nothing చెప్పింది."
+    }
+  ],
+  "body": [
+    {
+      "type": "p",
+      "text": "Nothing OS 5.0 (Android 17) stable update ఇప్పుడు Phone (2a), Phone (2a) Plus కి వస్తోంది. నవంబర్ 19 నుంచి owners X లో OTA screenshots పెట్టారు (Androidpure); Cashify, My Mobile India కూడా rollout మొదలైందని నవంబర్ 20 న రిపోర్ట్ చేశాయి. Nothing separate announcement ఇంకా చేయలేదు, కానీ వాళ్ళ official schedule లో Phone (2a) series కి 'Mid November' అనే ఉంది. ఇది phased rollout: region, carrier బట్టి batches గా వస్తుంది."
+    },
+    {
+      "type": "h2",
+      "text": "Update size (user reports)"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Stable నుంచి update చేస్తే దాదాపు 3.15 GB.",
+        "Open Beta లో ఉన్నవాళ్ళకి దాదాపు 361 MB.",
+        "My Mobile India ప్రకారం build: C5.0-261112-1938. ఈ numbers users / media reports మాత్రమే, Nothing official కాదు."
+      ]
+    },
+    {
+      "type": "img",
+      "src": "/gadgets/nothing-os-5-update-explained/homescreen.jpg",
+      "alt": "Nothing OS 5.0 refreshed homescreen",
+      "caption": "Nothing OS 5.0 refreshed homescreen Image: Nothing official (nothing.tech)."
+    },
+    {
+      "type": "h2",
+      "text": "Design: కొత్త homescreen, Geist font, clockfaces"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Wallpaper-aware colours, tinted app icons, transparent widgets (Nothing confirmed).",
+        "Homescreen batch editing: చాలా apps, widgets ఒకేసారి move చేయొచ్చు.",
+        "కొత్త Geist typeface, Settings / Camera / Gallery / Status Bar లో updated icons.",
+        "Lock screen clockfaces: Gooey (bold, playful), Micrographics (ఎక్కువ information)."
+      ]
+    },
+    {
+      "type": "img",
+      "src": "/gadgets/nothing-os-5-update-explained/glyph-timer.jpg",
+      "alt": "Glyph Timer widget",
+      "caption": "Glyph Timer widget Image: Nothing official (nothing.tech)."
+    },
+    {
+      "type": "h2",
+      "text": "Glyph app, Collector, Away Time"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "అన్ని Glyph Interface settings ఇప్పుడు ఒకే Glyph app లో.",
+        "Glyph Timer: homescreen నుంచే countdown స్టార్ట్.",
+        "Collector widget: మీ photos ని homescreen మీద stickers గా.",
+        "Away Time widget: ఫోన్ కింద పెట్టగానే టైం లెక్కపెడుతుంది, వారం మొత్తం longest breaks చూపిస్తుంది."
+      ]
+    },
+    {
+      "type": "img",
+      "src": "/gadgets/nothing-os-5-update-explained/away-time.jpg",
+      "alt": "Away Time widget: weekly time away",
+      "caption": "Away Time widget: weekly time away Image: Nothing official (nothing.tech)."
+    },
+    {
+      "type": "h2",
+      "text": "Essential AI tools"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Essential Space లో Smart Collections: captures ఆటోమేటిక్ గా group అవుతాయి, better search.",
+        "Essential Voice: మాట్లాడుతుండగానే real-time text, 100+ languages లో transcription.",
+        "Essential Apps Builder: natural language లో చెప్తే app తయారవుతుంది; early beta, waitlist.",
+        "Nothing ప్రకారం Essential Space updates Google Play ద్వారా separate గా వస్తాయి."
+      ]
+    },
+    {
+      "type": "img",
+      "src": "/gadgets/nothing-os-5-update-explained/separate-notifications.jpg",
+      "alt": "Android 17: separate Notifications and Quick Settings",
+      "caption": "Android 17: separate Notifications and Quick Settings Image: Nothing official (nothing.tech)."
+    },
+    {
+      "type": "h2",
+      "text": "Android 17 features"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Notifications, Quick Settings వేరు వేరు panels (పై ఎడమ / పై కుడి నుంచి swipe).",
+        "Quick Settings లో redesigned Bluetooth: ఒక్క tap తో connect / disconnect.",
+        "Quick Share: Android ఫోన్లకి direct గా; iPhone కి QR code + secure web link.",
+        "Privacy indicators, updated permission controls (camera, mic, location). AI processing కి separate indicator ఉందని 9to5Google, Cashify రిపోర్ట్ చేశాయి.",
+        "Noto 3D emoji, expanded Dark Theme, brighter HDR, redesigned Recents, improved screen recording, independent Assistant volume."
+      ]
+    },
+    {
+      "type": "img",
+      "src": "/gadgets/nothing-os-5-update-explained/quick-share-qr.jpg",
+      "alt": "Quick Share with QR code",
+      "caption": "Quick Share with QR code Image: Nothing official (nothing.tech)."
+    },
+    {
+      "type": "h2",
+      "text": "Phone (2a) camera (reported changelog)"
+    },
+    {
+      "type": "p",
+      "text": "Cashify, My Mobile India ప్రకారం Phone (2a) కి 7 adjustable tuning effects, improved filters, H.265 video recording వచ్చాయి. ఇది media reports ఆధారంగా; Nothing official page లో Phone (2a) camera details లేవు."
+    },
+    {
+      "type": "img",
+      "src": "/gadgets/nothing-os-5-update-explained/phone-4a.jpg",
+      "alt": "Nothing Phone (4a): Oct 30 నుంచి Nothing OS 5.0",
+      "caption": "Nothing Phone (4a): Oct 30 నుంచి Nothing OS 5.0 Image: Nothing official (nothing.tech)."
+    },
+    {
+      "type": "h2",
+      "text": "ఏ ఫోన్ కి ఎప్పుడు? (Nothing official schedule)"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Phone (3): October 12 నుంచి.",
+        "Phone (4a) Pro, (4a), (3a) Pro, (3a): schedule 'Early November'; 9to5Google, Cashify ప్రకారం October 30 నుంచే batches గా మొదలైంది.",
+        "Phone (2a), (2a) Plus: Mid November (ఇప్పుడు వస్తోంది).",
+        "Phone (3a) Lite: Late December.",
+        "Phone (4b): Open Beta mid December, general release mid January.",
+        "CMF Phone 2 Pro: Mid January.",
+        "Phone (1), Phone (2), CMF Phone 1: Nothing OS 5.0 రాదు (major software support ముగిసింది).",
+        "Nothing: 'Timings are indicative and subject to change.'"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "ఎలా update చేయాలి?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Photos, contacts, messages, call logs backup తీసుకోండి (Nothing సూచన).",
+        "Wi-Fi కి connect చేయండి, battery కనీసం 50% (My Mobile India సూచన).",
+        "Settings → System → System updates → Check for updates.",
+        "Update కనిపిస్తే Download and install. కనిపించకపోతే phased rollout కాబట్టి కొన్ని రోజుల్లో వస్తుంది."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "మా verdict: Phone (2a), (2a) Plus, (3), (3a), (4a) series ఉంటే backup తీసుకుని update చేయండి. మీ దగ్గర ఏ Nothing ఫోన్ ఉంది, update వచ్చిందా? YouTube కామెంట్ లో చెప్పండి."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Nothing: Nothing OS 5.0 (India page, rollout timeline)",
+      "url": "https://in.nothing.tech/nothing-os"
+    },
+    {
+      "label": "Androidpure: Nothing Phone (2a) starts getting Nothing OS 5.0, owners report",
+      "url": "https://www.androidpure.com/nothing-os-5-stable-phone-2a/"
+    },
+    {
+      "label": "Cashify: Nothing OS 5.0 stable rollout begins for Phone 2a, 2a Plus",
+      "url": "https://www.cashify.in/news/nothing-os-5-0-stable-rollout-begins-for-phone-2a-2a-plus-with-new-widgets-and-more"
+    },
+    {
+      "label": "My Mobile India: Phone (2a) and (2a) Plus get stable Nothing OS 5.0",
+      "url": "https://www.mymobileindia.com/nothing-phone-2a-and-phone-2a-plus-get-stable-nothing-os-5-0-update-with-android-17/"
+    },
+    {
+      "label": "9to5Google: Nothing OS 5.0 rolling out to Nothing 4a and 3a series",
+      "url": "https://9to5google.com/2026/10/30/nothing-os-5-0-android-17-is-now-rolling-out-to-nothing-4a-and-3a-series-phones/"
+    }
+  ]
+}
