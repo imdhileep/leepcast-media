@@ -1,0 +1,485 @@
+{
+ "out": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/gadget-news-2026-11-21.mp4",
+ "format": "landscape",
+ "theme": "konala",
+ "cohost": false,
+ "brand": "KONALA VADDA?",
+ "segment": "GADGET NEWS",
+ "site": "youtube.com/@KonalaVadda",
+ "lid": {
+  "text": "?",
+  "color": "#FFC83D"
+ },
+ "lang": "te",
+ "captions": true,
+ "music": true,
+ "voice_files": "/Users/dk/indic-tts/kv_runs/2026-11-21-long",
+ "thumb": {
+  "text": "BLACK FRIDAY LIVE",
+  "text2": "ఇప్పుడే కొనాలా?",
+  "tag": "GADGET NEWS",
+  "mood": "wow",
+  "pose": "point",
+  "image": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/sony_730_black_big.png"
+ },
+ "scenes": [
+  {
+   "kind": "hero",
+   "kicker": "CONFIRMED · INDIA SALES",
+   "title": "**Black Friday** sale మొదలైంది!",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/samsung_bf.jpg",
+     "label": "Samsung India Black Friday",
+     "fit": "cover"
+    }
+   ],
+   "items": [
+    "Flipkart: Nov 21-27",
+    "Croma: Nov 25-30",
+    "Samsung.com: Nov 30 వరకు"
+   ],
+   "beats": [
+    {
+     "say": "ఈ వారం ఏదైనా gadget కొనాలనుకుంటున్నారా? ఒక్క నిమిషం ఆగండి. Black Friday sale, India లో ఇవాళే మొదలైంది!",
+     "show": 1,
+     "mood": "wow",
+     "gesture": "open"
+    },
+    {
+     "say": "Flipkart లో ఇవాళ్టి నుంచి, Croma లో బుధవారం నుంచి. ఏ sale ఎప్పుడు, అన్నీ ఈ video లో చెప్తాను.",
+     "show": 3,
+     "mood": "point"
+    },
+    {
+     "say": "దాంతో పాటు, నాలుగున్నర లక్షల Dell laptop, Sony కొత్త headphones, Nothing AI device date, WhatsApp కొత్త update. చివరి వరకు చూడండి.",
+     "show": 3,
+     "mood": "happy"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "01 / 06 · CONFIRMED · SALE DATES",
+   "title": "ఏ **sale** ఎప్పుడు?",
+   "items": [
+    "**Flipkart**: Nov 21 - 27 (ఇప్పుడే live)",
+    "**Croma**: Nov 25 - 30",
+    "**Samsung.com**: Nov 13 - 30",
+    "**Amazon.in**: dates ఇంకా రాలేదు"
+   ],
+   "beats": [
+    {
+     "say": "ముందుగా, Flipkart Black Friday sale గురించి చూద్దాం. వాళ్ళ sale page ప్రకారం, నవంబర్ ఇరవై ఒకటి నుంచి, ఇరవై ఏడు వరకు. అంటే ఇప్పుడే live లో ఉంది.",
+     "show": 1,
+     "caption": "Flipkart Black Friday: **Nov 21 - 27**"
+    },
+    {
+     "say": "ఇక Croma విషయానికి వస్తే, వాళ్ళ Black Friday sale, నవంబర్ ఇరవై ఐదు నుంచి, ముప్పై వరకు. Deals మాత్రం, ఇంకా బయట పెట్టలేదు.",
+     "show": 2,
+     "caption": "Croma: **Nov 25 - 30**"
+    },
+    {
+     "say": "Samsung dot com లో అయితే, నవంబర్ పదమూడు నుంచే sale నడుస్తోంది, ముప్పై వరకు ఉంటుంది.",
+     "show": 3,
+     "caption": "Samsung.com: **Nov 13 - 30**"
+    },
+    {
+     "say": "Amazon India మాత్రం, ఇంకా dates confirm చేయలేదు. Social media లో తిరిగే rumour dates నమ్మకండి.",
+     "show": 4,
+     "mood": "oops"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "02 / 06 · CONFIRMED · SAMSUNG.COM",
+   "title": "Samsung **Black Friday** deals",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/w9_f2_t.png",
+     "label": "Galaxy Watch9",
+     "fit": "contain"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/w9_f1_t.png",
+     "label": "Galaxy Watch9 colours",
+     "fit": "contain"
+    }
+   ],
+   "items": [
+    [
+     "₹31,599",
+     "Galaxy Watch9 starting (cart savings తో)"
+    ],
+    [
+     "₹1.92 లక్షలు",
+     "Galaxy Z Fold8 Ultra: ₹1,91,999 నుంచి (bank discount తో)"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "Samsung India site లో, రెండు deals క్లియర్ గా కనిపిస్తున్నాయి. మొదటిది Galaxy Watch9.",
+     "show": 0
+    },
+    {
+     "say": "Cart లో instant savings తో, Galaxy Watch9 ధర, ముప్పై ఒక్క వేల ఐదు వందల తొంభై తొమ్మిది నుంచి.",
+     "show": 1,
+     "mood": "wow",
+     "caption": "Galaxy Watch9: **₹31,599** నుంచి"
+    },
+    {
+     "say": "Galaxy Z Fold8 Ultra అయితే, bank discount తో, ఒక లక్షా తొంభై ఒక్క వేల తొమ్మిది వందల తొంభై తొమ్మిది నుంచి.",
+     "show": 2,
+     "caption": "Z Fold8 Ultra: **₹1,91,999** నుంచి"
+    },
+    {
+     "say": "ఒక చిన్న tip. Bank offer ఎంతో, site లో ఇంకా స్పష్టంగా లేదు. Cart లో final price చూశాకే, కొనండి.",
+     "show": 2,
+     "mood": "think"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "03 / 06 · IDC DATA · Q3 2026",
+   "title": "Phone ధరలు ఎందుకు **పెరిగాయి**?",
+   "items": [
+    [
+     "$371",
+     "India లో phone సగటు ధర (record, +26%)"
+    ],
+    [
+     "-23.3%",
+     "Q3 లో phones అమ్మకాలు తగ్గుదల"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "అసలు ఈసారి sale లో, భారీ discounts ఎందుకు ఉండకపోవచ్చు? IDC ఈ వారం ఇచ్చిన data చూడండి.",
+     "show": 0,
+     "mood": "think"
+    },
+    {
+     "say": "India లో ఒక phone సగటు అమ్మకం ధర, మూడు వందల డెబ్బై ఒక్క dollars కి చేరింది. ఇది record. ఒక్క ఏడాదిలో, ఇరవై ఆరు శాతం పెరిగింది.",
+     "show": 1,
+     "mood": "wow",
+     "caption": "సగటు ధర: **$371** (record)"
+    },
+    {
+     "say": "ఆ ఫలితంగా, July నుంచి September వరకు, phones అమ్మకాలు, దాదాపు ఇరవై మూడు శాతం పడిపోయాయి.",
+     "show": 2,
+     "caption": "Shipments: **-23.3%**"
+    },
+    {
+     "say": "కారణం, memory chips ధరలు. అందుకే sale లో కూడా, ప్రతి deal ని, compare చేసి కొనండి.",
+     "show": 2,
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "hero",
+   "kicker": "04 / 06 · CONFIRMED · LAUNCHED IN INDIA",
+   "title": "Dell **XPS 16** Creator Edition",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/dell_xps16_a_t.png",
+     "label": "Dell XPS 16",
+     "fit": "contain"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/nv_spark.jpg",
+     "label": "NVIDIA RTX Spark",
+     "fit": "cover"
+    }
+   ],
+   "items": [
+    "₹4,49,990 నుంచి",
+    "RTX Spark N1X",
+    "16\" 3.2K OLED touch",
+    "99Wh battery"
+   ],
+   "beats": [
+    {
+     "say": "ఇక laptops విషయానికి వస్తే, NVIDIA తన RTX Spark laptops ని, India కి తెచ్చింది. ఇందులో Dell XPS 16 Creator Edition, ఇప్పుడు Dell online store లో దొరుకుతోంది.",
+     "show": 0
+    },
+    {
+     "say": "దీని ధర, నాలుగు లక్షల, నలభై తొమ్మిది వేల, తొమ్మిది వందల తొంభై నుంచి. Top model అయితే, తొమ్మిది లక్షల, నలభై తొమ్మిది వేల, తొమ్మిది వందల తొంభై.",
+     "show": 1,
+     "mood": "wow",
+     "caption": "₹4,49,990 నుంచి ₹9,49,990 వరకు"
+    },
+    {
+     "say": "లోపల NVIDIA RTX Spark N1X chip, ట్వెంటీ core CPU. పదహారు ఇంచుల, త్రీ పాయింట్ టూ K OLED touch display.",
+     "show": 3,
+     "caption": "RTX Spark N1X · 20-core CPU · 16\" 3.2K OLED"
+    },
+    {
+     "say": "తొంభై తొమ్మిది watt hour battery, నూట ముప్పై watt USB C charger. Wi-Fi సెవెన్ కూడా ఉంది.",
+     "show": 4,
+     "caption": "99Wh battery · 130W USB-C · Wi-Fi 7"
+    },
+    {
+     "say": "Axis bank, ICICI bank cards తో, పదిహేను వేల వరకు cashback. December మధ్యలో, shops లో, e-commerce లో కూడా వస్తుంది.",
+     "show": 4,
+     "caption": "₹15,000 వరకు cashback · Dec మధ్యలో stores లో"
+    }
+   ]
+  },
+  {
+   "kind": "bars",
+   "kicker": "05 / 06 · INDIA PRICES · REPORTED",
+   "title": "ఇంకా **RTX Spark** laptops",
+   "bars": [
+    [
+     "Lenovo Yoga Pro 9n",
+     2.99
+    ],
+    [
+     "Asus ProArt P14",
+     3.2
+    ],
+    [
+     "Dell XPS 16",
+     4.5
+    ],
+    [
+     "HP OmniBook Ultra",
+     5.5
+    ]
+   ],
+   "note": "Starting prices, ₹ లక్షల్లో · Dell confirmed, మిగతావి reports",
+   "beats": [
+    {
+     "say": "అయితే ఈ list లో, Dell ఒక్కటే లేదు. Reports ప్రకారం, Lenovo, Asus, HP కూడా, India prices చెప్పాయి.",
+     "show": 0
+    },
+    {
+     "say": "Lenovo Yoga Pro 9n, దాదాపు మూడు లక్షలు. Asus ProArt P14, మూడు లక్షల ఇరవై వేల దగ్గర.",
+     "show": 2,
+     "caption": "Yoga Pro 9n ~₹2.99L · ProArt P14 ~₹3.20L"
+    },
+    {
+     "say": "HP OmniBook Ultra అయితే, ఐదున్నర లక్షల దగ్గర. Pre bookings, నవంబర్ ఇరవై నాలుగు నుంచి అని reports.",
+     "show": 4,
+     "caption": "HP OmniBook Ultra ~₹5.50L · pre-booking Nov 24 (report)"
+    },
+    {
+     "say": "నా మాట ఏంటంటే, ఇవి video editors, AI developers కోసం. College కి, office కి, ఇంత ఖర్చు అవసరం లేదు.",
+     "show": 4,
+     "mood": "think"
+    }
+   ]
+  },
+  {
+   "kind": "hero",
+   "kicker": "06 / 06 · CONFIRMED · LAUNCHED IN INDIA",
+   "title": "Sony **WH-CH730N** & WH-CH530",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/sony_730_black_big.png",
+     "label": "WH-CH730N Black",
+     "fit": "contain"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/sony_730_pink.png",
+     "label": "WH-CH730N Pink",
+     "fit": "contain"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-21-long/imgr/sony_730_ov1.jpg",
+     "label": "WH-CH730N",
+     "fit": "cover"
+    }
+   ],
+   "items": [
+    "WH-CH730N: ₹12,990",
+    "WH-CH530: ₹4,490",
+    "75 గంటల battery"
+   ],
+   "beats": [
+    {
+     "say": "ఇప్పుడు budget lovers కోసం. Sony India, రెండు కొత్త headphones లాంచ్ చేసింది.",
+     "show": 0
+    },
+    {
+     "say": "మొదటిది Sony WH-CH730N. ఇందులో noise cancelling ఉంది. ధర, పన్నెండు వేల తొమ్మిది వందల తొంభై.",
+     "show": 1,
+     "caption": "WH-CH730N: **₹12,990**"
+    },
+    {
+     "say": "రెండోది Sony WH-CH530. ఇందులో ANC లేదు, కానీ ధర, నాలుగు వేల నాలుగు వందల తొంభై మాత్రమే.",
+     "show": 2,
+     "mood": "wow",
+     "caption": "WH-CH530: **₹4,490**"
+    }
+   ]
+  },
+  {
+   "kind": "compare",
+   "kicker": "CONFIRMED SPECS",
+   "title": "ఏది **కొనాలి**?",
+   "left": {
+    "title": "WH-CH730N · ₹12,990",
+    "items": [
+     "ANC ఉంది",
+     "50h (ANC) / 75h battery",
+     "Bluetooth 6.0 · multipoint",
+     "Foldable design"
+    ],
+    "mark": "check"
+   },
+   "right": {
+    "title": "WH-CH530 · ₹4,490",
+    "items": [
+     "ANC లేదు",
+     "55h battery",
+     "150 g బరువు",
+     "Multipoint"
+    ],
+    "mark": "check"
+   },
+   "note": "రెండిట్లో: 3 నిమిషాల charge = 90 నిమిషాలు · LDAC లేదు",
+   "beats": [
+    {
+     "say": "Sony WH-CH730N లో, ANC on చేస్తే యాభై గంటలు, off చేస్తే డెబ్బై ఐదు గంటల battery. Bluetooth సిక్స్ పాయింట్ జీరో, multipoint కూడా ఉంది.",
+     "show": 1
+    },
+    {
+     "say": "Sony WH-CH530 లో అయితే, యాభై ఐదు గంటల battery. బరువు, నూట యాభై grams మాత్రమే.",
+     "show": 2
+    },
+    {
+     "say": "రెండిట్లో, మూడు నిమిషాల charge తో, తొంభై నిమిషాలు వినొచ్చు. కానీ LDAC లేదు, Hi Res audio fans గమనించండి.",
+     "show": 3,
+     "mood": "think"
+    },
+    {
+     "say": "Sony India site లో, Amazon లో దొరుకుతాయి. Metro, bus లో రోజూ వెళ్లేవాళ్లకి, సెవెన్ థర్టీ ఎన్ బెటర్. చిన్న budget అయితే, ఫైవ్ థర్టీ చాలు.",
+     "show": 3,
+     "mood": "point",
+     "caption": "Daily commute → **730N** · చిన్న budget → **530**"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "BONUS · DATE CONFIRMED · DETAILS RUMOUR",
+   "title": "Nothing **AI device**",
+   "items": [
+    [
+     "Dec 8",
+     "launch date (Nothing confirmed)"
+    ],
+    [
+     "0",
+     "screens (confirmed)"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "ఇక bonus news, Nothing నుంచి. వాళ్ళ మొదటి AI device, డిసెంబర్ ఎనిమిది న launch అవుతుంది. ఇది Nothing official గా confirm చేసింది.",
+     "show": 1,
+     "mood": "wow",
+     "caption": "Nothing AI device: **Dec 8**"
+    },
+    {
+     "say": "దీని tagline ఏంటంటే, Be present, It's noted. దీనికి screen ఉండదు, ఇది కూడా confirmed.",
+     "show": 2,
+     "caption": "\"Be present. It's noted.\" · screen లేదు"
+    },
+    {
+     "say": "కానీ ఈ device పేరు ఏంటి, ధర ఎంత, India కి వస్తుందా, ఇవేవీ Nothing ఇంకా చెప్పలేదు.",
+     "show": 2,
+     "mood": "think"
+    },
+    {
+     "say": "ఇది AI voice recorder అని, reports అంటున్నాయి. కానీ ఇది rumour మాత్రమే, ఇంకా confirm కాలేదు.",
+     "show": 2,
+     "mood": "oops",
+     "caption": "AI voice recorder? **RUMOUR**"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "BONUS · ROLLING OUT · REPORT (WABetaInfo)",
+   "title": "WhatsApp groups **పెద్దవి** అయ్యాయి",
+   "items": [
+    [
+     "1,024",
+     "పాత group limit"
+    ],
+    [
+     "1,500",
+     "కొత్త group limit"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "చివరగా, WhatsApp. Group లో ఇప్పుడు, వెయ్యి ఐదు వందల మంది వరకు చేర్చుకోవచ్చు. ఇంతకుముందు, వెయ్యి ఇరవై నాలుగు మాత్రమే.",
+     "show": 2,
+     "mood": "wow",
+     "caption": "Group limit: 1,024 → **1,500**"
+    },
+    {
+     "say": "ఈ వార్తను, WABetaInfo అనే site report చేసింది. WhatsApp మాత్రం, ఇంకా official గా blog లో చెప్పలేదు. Android, iPhone రెండిట్లో, మెల్లగా rollout అవుతోంది.",
+     "show": 2
+    },
+    {
+     "say": "Community groups కి కూడా ఇది వర్తిస్తుంది. పాత groups, ఆటోమేటిక్ గా upgrade అవుతాయి. అందరికీ రావడానికి, కొన్ని వారాలు పట్టొచ్చు.",
+     "show": 2,
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "KONALA VADDA? VERDICT",
+   "title": "ఇవాళ్టి **verdict**",
+   "items": [
+    "**Sale లో phone / watch**: cart లో final price చూసి BUY",
+    "**Dell XPS 16**: creators కి మాత్రమే, మిగతావాళ్లు SKIP",
+    "**Sony WH-CH730N**: daily commute కి BUY",
+    "**Nothing AI device**: Dec 8 వరకు WAIT"
+   ],
+   "beats": [
+    {
+     "say": "సరే, ఇవాళ్టి verdict. Sale లో phone గానీ, watch గానీ కొంటే, cart లో final price చూసి, అప్పుడే కొనండి.",
+     "show": 1
+    },
+    {
+     "say": "Dell XPS 16, creators కి మాత్రమే. మిగతా వాళ్ళు, skip చేయొచ్చు.",
+     "show": 2
+    },
+    {
+     "say": "Sony WH-CH730N, రోజూ ప్రయాణం చేసేవాళ్ళకి, మంచి buy.",
+     "show": 3,
+     "mood": "happy"
+    },
+    {
+     "say": "Nothing AI device కోసం, డిసెంబర్ ఎనిమిది వరకు wait చేయండి.",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "outro",
+   "title": "మరి మీరు **కొంటారా**, వద్దా?",
+   "sub": "youtube.com/@KonalaVadda",
+   "beats": [
+    {
+     "say": "మరి మీరు, ఈ Black Friday లో ఏం కొంటారు? కామెంట్ లో మీ verdict చెప్పండి.",
+     "mood": "happy"
+    },
+    {
+     "say": "Apple Maps కొత్త India map గురించి, ముందు video కూడా చూడండి. Subscribe చేయండి, రేపు weekly roundup లో కలుద్దాం!",
+     "mood": "happy",
+     "gesture": "thumbs"
+    }
+   ]
+  }
+ ]
+}
