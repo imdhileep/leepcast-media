@@ -1,0 +1,697 @@
+{
+ "out": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/hyperos-4-update-2026-11-27.mp4",
+ "format": "landscape",
+ "theme": "konala",
+ "cohost": false,
+ "brand": "KONALA VADDA?",
+ "segment": "UPDATE EXPLAINED",
+ "site": "youtube.com/@KonalaVadda",
+ "lid": {
+  "text": "?",
+  "color": "#FFC83D"
+ },
+ "lang": "te",
+ "captions": true,
+ "music": true,
+ "voice_files": "/Users/dk/indic-tts/kv_runs/2026-11-27-long",
+ "thumb": {
+  "text": "HYPEROS 4",
+  "text2": "మీ phone కి ఎప్పుడు?",
+  "tag": "UPDATE EXPLAINED",
+  "mood": "wow",
+  "pose": "point",
+  "image": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/trio.png",
+  "from": "OS 3",
+  "to": "OS 4"
+ },
+ "scenes": [
+  {
+   "kind": "hero",
+   "kicker": "CONFIRMED · XIAOMI OFFICIAL",
+   "title": "**HyperOS 4**: మీ phone కి ఎప్పుడు?",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p02-02.jpg",
+     "fit": "cover",
+     "label": "HyperOS 4"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/trio.png",
+     "fit": "contain",
+     "label": "REDMI · POCO · Xiaomi"
+    }
+   ],
+   "clip": {
+    "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/clip_intro.mp4",
+    "from": 0.0
+   },
+   "items": [
+    "Android 17 based",
+    "82 devices",
+    "Nov – Dec 2026"
+   ],
+   "beats": [
+    {
+     "say": "మీ దగ్గర Redmi, POCO, లేదా Xiaomi phone ఉందా? అయితే, ఈ update మీ phone look ని పూర్తిగా మార్చేస్తుంది!",
+     "show": 0,
+     "mood": "wow",
+     "gesture": "open",
+     "caption": "Redmi · POCO · Xiaomi: **HyperOS 4**"
+    },
+    {
+     "say": "Xiaomi HyperOS 4, Android 17 మీద తయారైంది. Global rollout, నవంబర్ లోనే మొదలైంది.",
+     "show": 1,
+     "mood": "point"
+    },
+    {
+     "say": "కానీ ఇక్కడే twist ఉంది. Rollout మొదలై వారాలు అవుతున్నా, చాలా phones కి, ఇంకా రాలేదు.",
+     "show": 2,
+     "mood": "oops"
+    },
+    {
+     "say": "ఏ phone కి ఎప్పుడు వస్తుంది, కొత్తగా ఏమేం వస్తాయి, ఎలా update చేయాలి, అన్నీ చెప్తాను. చివర్లో verdict కూడా ఉంది.",
+     "show": 3,
+     "mood": "happy"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "CONFIRMED · XIAOMI OFFICIAL LIST",
+   "title": "మొత్తం **82** devices",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/logo4.png",
+     "fit": "contain",
+     "label": "Xiaomi HyperOS 4"
+    }
+   ],
+   "clip": {
+    "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/clip_widgets.mp4",
+    "from": 0.0
+   },
+   "items": [
+    [
+     "67",
+     "phones"
+    ],
+    [
+     "15",
+     "tablets"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "Xiaomi official list ప్రకారం, అరవై ఏడు phones కి, HyperOS 4 వస్తుంది.",
+     "show": 1,
+     "caption": "**67** phones"
+    },
+    {
+     "say": "ఇంకా, పదిహేను tablets కి కూడా. అంటే మొత్తం, ఎనభై రెండు devices.",
+     "show": 2,
+     "mood": "wow",
+     "caption": "+ **15** tablets = **82** devices"
+    },
+    {
+     "say": "ఇవి మూడు waves లో వస్తాయి. నవంబర్ మొదట్లో, నవంబర్ మధ్యలో, ఇంకా డిసెంబర్ లో.",
+     "show": 2,
+     "mood": "point",
+     "caption": "Early Nov · Mid-Nov · **December**"
+    },
+    {
+     "say": "కానీ ఈ dates, Xiaomi estimate మాత్రమే. Region, carrier, model ని బట్టి మారొచ్చని, Xiaomi నే చెప్పింది.",
+     "show": 2,
+     "mood": "think",
+     "caption": "Schedule = Xiaomi **estimate**"
+    }
+   ]
+  },
+  {
+   "kind": "hero",
+   "kicker": "CONFIRMED · WHAT'S NEW · DESIGN",
+   "title": "Soft light **glass** design",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p02-05.jpg",
+     "fit": "cover",
+     "label": "Soft light glass"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p04-07.jpg",
+     "fit": "cover",
+     "label": "Light & shadow"
+    }
+   ],
+   "clip": {
+    "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/clip_glass.mp4",
+    "from": 0.0
+   },
+   "items": [
+    "Soft light glass",
+    "Tap & drag light effects",
+    "Adaptive transparency"
+   ],
+   "beats": [
+    {
+     "say": "ముందు, కొత్తగా ఏమొచ్చిందో చూద్దాం. మొదటిది, design. Xiaomi దీన్ని, soft light glass అంటోంది.",
+     "show": 1
+    },
+    {
+     "say": "Screen మీద tap చేస్తే, light glow అవుతుంది. Drag చేస్తే, ఆ light మీ వేలుని follow అవుతుంది.",
+     "show": 2,
+     "mood": "wow"
+    },
+    {
+     "say": "Content ని బట్టి, glass transparency మారుతుంది. అందుకే, layers neat గా, text clear గా కనిపిస్తాయి.",
+     "show": 3,
+     "mood": "cool"
+    },
+    {
+     "say": "కానీ ఒక విషయం. ఈ glass effects, అన్ని phones లో ఒకేలా ఉండవు. Hardware ని బట్టి మారుతాయని, Xiaomi చెప్పింది.",
+     "show": 3,
+     "mood": "think",
+     "caption": "Effects vary by **device**"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "CONFIRMED · LOCK SCREEN & HOME",
+   "title": "Home screen **మీ ఇష్టం**",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p05-11.jpg",
+     "fit": "cover",
+     "label": "Lock screen"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p04-09.jpg",
+     "fit": "cover",
+     "label": "Folder resizing"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/widgets.png",
+     "fit": "contain",
+     "label": "Widgets"
+    }
+   ],
+   "clip": {
+    "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/clip_stack.mp4",
+    "from": 0.0
+   },
+   "items": [
+    "Lock screen: clock size, fonts*",
+    "Notifications: **stack**",
+    "Folders: **size** మార్చొచ్చు",
+    "Widgets: **stack** + swipe"
+   ],
+   "beats": [
+    {
+     "say": "ఇప్పుడు lock screen. Clock size పెంచొచ్చు, తగ్గించొచ్చు. Font style కూడా మార్చొచ్చు. కానీ ఇది, select models లోనే.",
+     "show": 1,
+     "caption": "Lock screen styling (**select models**)"
+    },
+    {
+     "say": "Notifications, ఒకదానిపై ఒకటి stack అవుతాయి. పైకి swipe చేస్తే, అన్నీ ఈజీ గా చూడొచ్చు.",
+     "show": 2
+    },
+    {
+     "say": "Home screen folders, ఇప్పుడు చిన్నగా, పెద్దగా, మీకు నచ్చినట్టు పెట్టుకోవచ్చు. ఇది phones లో మాత్రమే, tablets లో కాదు.",
+     "show": 3,
+     "mood": "cool"
+    },
+    {
+     "say": "Widgets ని కూడా, ఒకదానిపై ఒకటి stack చేసి, swipe తో మార్చుకోవచ్చు. కొన్ని కొత్త widget styles, నవంబర్ చివరికి, ఇంకో update లో వస్తాయని Xiaomi చెప్పింది.",
+     "show": 4,
+     "caption": "New widget styles: **end of November** update"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "XIAOMI LAB TEST · XIAOMI 17 ULTRA · OS 3 vs OS 4",
+   "title": "**Speed** ఎంత పెరిగింది?",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p04-08.jpg",
+     "fit": "cover",
+     "label": "Control centre"
+    }
+   ],
+   "items": [
+    [
+     "−8.7%",
+     "30 apps: 40.3s → 36.8s"
+    ],
+    [
+     "808.8ms",
+     "camera open (ముందు 1,043.6ms)"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "ఇక speed. Xiaomi తన lab లో, Xiaomi 17 Ultra మీద, HyperOS 3, HyperOS 4 ని పోల్చి చూసింది.",
+     "show": 0,
+     "mood": "point"
+    },
+    {
+     "say": "తొమ్మిది గంటలు వాడిన తర్వాత, ముప్పై apps open చేయడానికి, ముందు నలభై పాయింట్ మూడు seconds పట్టేది. ఇప్పుడు, ముప్పై ఆరు పాయింట్ ఎనిమిది seconds.",
+     "show": 1,
+     "mood": "wow",
+     "caption": "30 apps: 40.3s → **36.8s** (−8.7%)"
+    },
+    {
+     "say": "Camera open అవడానికి, ముందు దాదాపు ఒక second పట్టేది. ఇప్పుడు, ఎనిమిది వందల ఎనిమిది milliseconds. HDR photo తీయడం కూడా fast అయింది.",
+     "show": 2,
+     "caption": "Camera: 1,043.6ms → **808.8ms** · HDR: 313 → **240ms**"
+    },
+    {
+     "say": "కానీ గుర్తుపెట్టుకోండి, ఇవి Xiaomi సొంత test numbers. మీ phone లో results, కొంచెం మారొచ్చు.",
+     "show": 2,
+     "mood": "think",
+     "caption": "Xiaomi **internal lab** data"
+    }
+   ]
+  },
+  {
+   "kind": "hero",
+   "kicker": "CONFIRMED · XIAOMI HYPERAI · SELECT MODELS",
+   "title": "**AI** Notes & Recorder",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s12-22.png",
+     "fit": "contain",
+     "label": "AI Voice Notes"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s12-23.png",
+     "fit": "contain",
+     "label": "Mind map"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s13-27.png",
+     "fit": "contain",
+     "label": "Smart outline"
+    }
+   ],
+   "items": [
+    "Notes తో chat",
+    "Auto to-do list",
+    "Silent parts skip"
+   ],
+   "beats": [
+    {
+     "say": "ఇప్పుడు AI features. Xiaomi దీన్ని, HyperAI అంటోంది. మొదటిది, AI Voice Notes.",
+     "show": 0,
+     "mood": "point"
+    },
+    {
+     "say": "ఒక్క tap తో voice memo రికార్డ్ చేస్తే, అది neat గా notes గా మారుతుంది. ఆ notes తోనే chat చేసి, ప్రశ్నలు అడగొచ్చు.",
+     "show": 1,
+     "mood": "wow"
+    },
+    {
+     "say": "Notes లో ఉన్న పనులను, to-do list గా మార్చేస్తుంది. పెద్ద notes ని, mind map గా కూడా చూపిస్తుంది.",
+     "show": 2,
+     "mood": "cool"
+    },
+    {
+     "say": "Recorder app లో, meeting recording కి, summary, outline వస్తాయి. మధ్యలో silent గా ఉన్న parts ని, skip చేయొచ్చు.",
+     "show": 3
+    }
+   ]
+  },
+  {
+   "kind": "hero",
+   "kicker": "CONFIRMED · HYPERAI · SELECT REGIONS & LANGUAGES",
+   "title": "Translate, **Gallery** search",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s14-29.png",
+     "fit": "contain",
+     "label": "AI Translate Conversation"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s14-30.png",
+     "fit": "contain",
+     "label": "AI Gallery Search"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s14-28.png",
+     "fit": "contain",
+     "label": "AI Answers"
+    }
+   ],
+   "items": [
+    "Face-to-face translate",
+    "Gallery AI search",
+    "AI Answers + web"
+   ],
+   "beats": [
+    {
+     "say": "ఎదురుగా ఉన్న వ్యక్తితో, వేరే భాష లో మాట్లాడాలా? AI Translate Conversation, మాటల్ని అక్కడికక్కడే translate చేస్తుంది.",
+     "show": 1
+    },
+    {
+     "say": "Gallery లో వేల photos ఉన్నా, మీకు కావాల్సిన photo ని, AI search తో వెతకొచ్చు.",
+     "show": 2,
+     "mood": "cool"
+    },
+    {
+     "say": "AI Answers, web search తో కలిపి, మీ ప్రశ్నలకు వెంటనే సమాధానం ఇస్తుంది.",
+     "show": 3
+    },
+    {
+     "say": "ఇక్కడ ఒక పెద్ద catch ఉంది. ఈ AI features, select models, select languages, select regions లో మాత్రమే. Internet కూడా కావాలి.",
+     "show": 3,
+     "mood": "oops",
+     "caption": "Select models · regions · languages **మాత్రమే**"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "CONFIRMED · PRIVACY & SECURITY",
+   "title": "Data **safety**",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s17-36.png",
+     "fit": "contain",
+     "label": "Post-quantum encryption"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s17-37.png",
+     "fit": "contain",
+     "label": "Edge-to-cloud privacy"
+    }
+   ],
+   "items": [
+    "**Post-quantum** encryption (E2E key delivery)",
+    "On-device + cloud privacy computing*"
+   ],
+   "beats": [
+    {
+     "say": "Security లో, post-quantum encryption వచ్చింది. ప్రస్తుతానికి ఇది, end-to-end encryption లో, main key పంపడానికి వాడుతున్నారు.",
+     "show": 1,
+     "mood": "point",
+     "caption": "Post-quantum encryption: **main key** delivery"
+    },
+    {
+     "say": "AI కి వెళ్ళే data, phone లోనే process అవుతుంది, లేదా secure cloud లో. ఆ cloud privacy computing మాత్రం, select devices లోనే.",
+     "show": 2,
+     "mood": "think"
+    }
+   ]
+  },
+  {
+   "kind": "big",
+   "kicker": "REPORT · TECH-ISH · NOV 21",
+   "title": "ఇప్పటికి **ఎవరికి** వచ్చింది?",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p05-13.jpg",
+     "fit": "cover",
+     "label": "HyperOS 4 home screen"
+    }
+   ],
+   "items": [
+    [
+     "26",
+     "early-Nov list"
+    ],
+    [
+     "కొన్నే",
+     "stable build వచ్చింది"
+    ]
+   ],
+   "beats": [
+    {
+     "say": "ఇప్పుడు అసలు ప్రశ్న. ఇప్పటికి ఎవరికి వచ్చింది? China లో, అక్టోబర్ పదిహేను నే rollout మొదలైంది. Global rollout, నవంబర్ లో.",
+     "show": 0,
+     "mood": "think"
+    },
+    {
+     "say": "నవంబర్ మొదటి wave list లో, ఇరవై ఆరు devices ఉన్నాయి.",
+     "show": 1
+    },
+    {
+     "say": "కానీ నవంబర్ ఇరవై ఒకటి, tech-ish report ప్రకారం, అందులో కొన్నింటికే stable global build వచ్చింది. Xiaomi 17, Xiaomi 17T Pro, POCO F8 Pro లాంటివి.",
+     "show": 2,
+     "mood": "oops",
+     "caption": "Xiaomi 17 · 17T Pro · POCO F8 Pro (**report**)"
+    },
+    {
+     "say": "ఆ early list లో ఉన్న చాలా Redmi phones కి, ఇంకా wide release రాలేదని, అదే report చెప్తోంది.",
+     "show": 2,
+     "mood": "think"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "ESTIMATE · XIAOMI SCHEDULE · WAVE 1",
+   "title": "Wave 1: **Early Nov**",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/trio.png",
+     "fit": "contain",
+     "label": "HyperOS 4"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p05-12.jpg",
+     "fit": "cover",
+     "label": "Lock screen"
+    }
+   ],
+   "items": [
+    "**REDMI** Note 15 Pro+ · Note 15 Pro · Note 15",
+    "**REDMI** 17 5G · 17 · 17C 5G · 15C",
+    "**POCO** F8 Ultra/Pro · X8 Pro Max/Pro · M8 · C95 Pro · C85",
+    "**Xiaomi** 17 Ultra · 17 · 17T Pro · 17T · Pad 8"
+   ],
+   "beats": [
+    {
+     "say": "ఇప్పుడు waves చూద్దాం. మొదటి wave, నవంబర్ మొదటి నుంచి. Redmi Note 15 Pro plus, Note 15 Pro, Note 15. ఇంకా, Redmi 17, 17C, 15C.",
+     "show": 2
+    },
+    {
+     "say": "POCO లో, F8 Ultra, F8 Pro. X8 Pro Max, X8 Pro. ఇంకా, M8 Pro, M8, C95 Pro, C85.",
+     "show": 3
+    },
+    {
+     "say": "Xiaomi లో, 17 Ultra, 17, 17T Pro, 17T. ఇంకా, Xiaomi Pad 8, Pad 8 Pro.",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "ESTIMATE · XIAOMI SCHEDULE · WAVE 2",
+   "title": "Wave 2: **Mid-Nov**",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p05-14.jpg",
+     "fit": "cover",
+     "label": "Widget stacking"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/tabletapps.png",
+     "fit": "contain",
+     "label": "Tablet apps"
+    }
+   ],
+   "items": [
+    "**REDMI** Note 17 Pro Max · Note 17 Pro · Note 17",
+    "**POCO** F9 Ultra/Pro · F7 Ultra/Pro · F7 · X8 · X7 Pro",
+    "**Xiaomi** 15 Ultra · 15 · 15T Pro · 15T",
+    "**Pads:** Xiaomi Pad 7 · REDMI Pad 2 Pro · POCO Pad"
+   ],
+   "beats": [
+    {
+     "say": "రెండో wave, నవంబర్ మధ్య నుంచి. Redmi Note 17 Pro Max, Note 17 Pro, Note 17.",
+     "show": 1
+    },
+    {
+     "say": "POCO లో, F9 Ultra, F9 Pro. F7 Ultra, F7 Pro, F7. ఇంకా, X8, X7 Pro.",
+     "show": 2
+    },
+    {
+     "say": "Xiaomi 15 Ultra, 15, 15T Pro, 15T. Tablets లో, Xiaomi Pad 7 series, Redmi Pad 2 Pro, POCO Pad X1, M1.",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "ESTIMATE · XIAOMI SCHEDULE · WAVE 3",
+   "title": "Wave 3: **December**",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p04-09.jpg",
+     "fit": "cover",
+     "label": "HyperOS 4 home"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/s14-31.png",
+     "fit": "contain",
+     "label": "AI Creativity"
+    }
+   ],
+   "items": [
+    "**REDMI** Note 14 Pro+ · Note 14 Pro · Note 14 · 14S",
+    "**REDMI** 15 5G · 15 · A7 Pro",
+    "**POCO** X8s · X7 · X6 Pro · F6 Pro/F6 · M8s · M7 · C81 Pro",
+    "**Xiaomi** 14 · 13 · 14T · 13T series · MIX Flip"
+   ],
+   "beats": [
+    {
+     "say": "మూడో wave, డిసెంబర్ నుంచి. India లో చాలా మంది దగ్గర ఉండే, Redmi Note 14 series, ఈ wave లోనే. Redmi 15, Redmi A7 Pro కూడా.",
+     "show": 2,
+     "mood": "point"
+    },
+    {
+     "say": "POCO లో, X8s, X7, X6 Pro. ఇంకా, F6 Pro, F6, M8s, M7, C81 Pro.",
+     "show": 3
+    },
+    {
+     "say": "Xiaomi 14, Xiaomi 13 series, 14T, 13T series, MIX Flip కూడా, డిసెంబర్ wave లోనే ఉన్నాయి.",
+     "show": 4
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "INDIA STATUS · DIGIT · 91MOBILES · XIAOMI",
+   "title": "India కి **ఎప్పుడు?**",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/trio.png",
+     "fit": "contain",
+     "label": "HyperOS 4"
+    },
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p05-12.jpg",
+     "fit": "cover",
+     "label": "HyperOS 4 lock screen"
+    }
+   ],
+   "items": [
+    "India separate date: **ఇంకా లేదు**",
+    "Global తో పాటే రావచ్చు (**report**)",
+    "Region, carrier ని బట్టి మారొచ్చు",
+    "List లో లేవు: Redmi 13 · 14C · A3 Pro"
+   ],
+   "beats": [
+    {
+     "say": "ఇక మన India సంగతి. Digit report ప్రకారం, India కోసం separate date ని, Xiaomi ఇంకా చెప్పలేదు.",
+     "show": 1,
+     "mood": "think"
+    },
+    {
+     "say": "India లో అమ్మే phones కి, global phones తో పాటే, update రావచ్చని, 91mobiles report చెప్తోంది. ఇది ఇంకా confirm కాలేదు.",
+     "show": 2,
+     "caption": "Global తో పాటే? (**report · not confirmed**)"
+    },
+    {
+     "say": "Xiaomi కూడా, ఈ schedule ఒక estimate మాత్రమే అని, region, carrier, model ని బట్టి మారొచ్చని చెప్పింది.",
+     "show": 3
+    },
+    {
+     "say": "ఇంకో విషయం. Redmi 13, Redmi 14C, Redmi A3 Pro, Xiaomi list లో లేవు. ఇప్పటి list ప్రకారం, వాటికి HyperOS 4 లేదు.",
+     "show": 4,
+     "mood": "oops"
+    }
+   ]
+  },
+  {
+   "kind": "steps",
+   "kicker": "HOW TO UPDATE",
+   "title": "ఎలా **update** చేయాలి?",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p05-11.jpg",
+     "fit": "cover",
+     "label": "HyperOS 4"
+    }
+   ],
+   "items": [
+    "**Settings** open చేయండి",
+    "**About phone**",
+    "**HyperOS** logo పై tap",
+    "Update ఉంటే: Download & install"
+   ],
+   "beats": [
+    {
+     "say": "Update ఎలా చెక్ చేయాలో చూద్దాం. ముందు, Settings open చేయండి. తర్వాత, About phone కి వెళ్ళండి.",
+     "show": 2,
+     "mood": "point"
+    },
+    {
+     "say": "అక్కడ పైన కనిపించే, HyperOS logo మీద tap చేయండి. Update ఉంటే, అక్కడే download చేసి install చేయొచ్చు.",
+     "show": 4
+    },
+    {
+     "say": "Install చేసే ముందు, మీ photos, chats backup తీసుకోండి. Wi-Fi లో ఉండండి, battery కూడా ఛార్జ్ చేసి పెట్టుకోండి.",
+     "show": 4,
+     "mood": "happy",
+     "gesture": "thumbs"
+    }
+   ]
+  },
+  {
+   "kind": "bullets",
+   "kicker": "KONALA VADDA? VERDICT",
+   "title": "Update **చేయాలా?**",
+   "images": [
+    {
+     "src": "/Users/dk/indic-tts/kv_runs/2026-11-27-long/imgm/p05-13.jpg",
+     "fit": "cover",
+     "label": "HyperOS 4"
+    }
+   ],
+   "items": [
+    "**Update వచ్చిందా?** Backup తీసి: UPDATE",
+    "**Wave 1, ఇంకా రాలేదా?** కొన్ని రోజులు: WAIT",
+    "**Note 14 / Redmi 15?** December వరకు: WAIT",
+    "**Redmi 13 / 14C?** List లో లేదు"
+   ],
+   "beats": [
+    {
+     "say": "ఇప్పుడు verdict. మీ phone కి update notification వచ్చిందా? Backup తీసుకుని, update చేయండి. కొత్త design, AI features, మీ phone కి వస్తాయి.",
+     "show": 1,
+     "mood": "happy"
+    },
+    {
+     "say": "Wave one phone ఉండి, ఇంకా రాలేదా? కంగారు పడకండి. Updates దశలవారీగా వస్తాయి. కొన్ని రోజులు ఆగండి.",
+     "show": 2,
+     "mood": "think"
+    },
+    {
+     "say": "Redmi Note 14, Redmi 15 users, డిసెంబర్ వరకు ఆగాల్సిందే.",
+     "show": 3
+    },
+    {
+     "say": "Redmi 13, 14C ఉంటే, ఈ update లేదు. కొత్త phone కొనే plan ఉంటే, ఈ list లో ఉన్న phone చూసి కొనండి.",
+     "show": 4,
+     "mood": "point"
+    }
+   ]
+  },
+  {
+   "kind": "outro",
+   "title": "మీ phone కి **వచ్చిందా?**",
+   "sub": "youtube.com/@KonalaVadda",
+   "beats": [
+    {
+     "say": "మరి మీ phone కి, HyperOS 4 వచ్చిందా, లేదా? కామెంట్ లో మీ phone పేరు చెప్పండి.",
+     "mood": "happy"
+    },
+    {
+     "say": "నిన్నటి video లో, vivo X500 India ధరలు, Hyderabad Apple Store news చెప్పాను, అది కూడా చూడండి. Subscribe చేయండి, మళ్ళీ కలుద్దాం!",
+     "mood": "happy",
+     "gesture": "thumbs"
+    }
+   ]
+  }
+ ]
+}
