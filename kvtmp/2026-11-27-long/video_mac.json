@@ -362,7 +362,7 @@
      "show": 3
     },
     {
-     "say": "ఇక్కడ ఒక పెద్ద catch ఉంది. ఈ AI features, select models, select languages, select regions లో మాత్రమే. Internet కూడా కావాలి.",
+     "say": "ఈ AI features అన్నింటిలో, ఒక పెద్ద catch ఉంది. ఇవి select models, select languages, select regions లో మాత్రమే. Internet కూడా కావాలి.",
      "show": 3,
      "mood": "oops",
      "caption": "Select models · regions · languages **మాత్రమే**"
